@@ -5,8 +5,8 @@
 
 #### Releases
 
-+ Crohn's Disease Activity Tracker for Patients [CDAT Tracker](https://appdistribution.firebase.google.com/pub/i/32c146ddb4034129)  
-+ For Gastoenterologists [CDAT Doctor](https://appdistribution.firebase.google.com/pub/i/af791d4fbee5b3bf)  
++ Crohn's Disease Activity Tracker for Patients [CDAT Tracker](https://appdistribution.firebase.google.com/pub/i/32c146ddb4034129) | [APK](https://github.com/erepr/CDAT/blob/main/APK/Crohn%20Tracker.apk)  
++ For Gastoenterologists [CDAT Doctor](https://appdistribution.firebase.google.com/pub/i/af791d4fbee5b3bf) | [APK](https://github.com/erepr/CDAT/blob/main/APK/CDAT%20Doctor.apk) 
 + Offline [Both](https://drive.google.com/drive/folders/1TdHXva7pBXtE1Cl5Vuy4FzqT389nFRl2?usp=sharing)
 + [Slides](https://github.com/erepr/CDAT/blob/main/Slides/CDAT.pdf)
 
