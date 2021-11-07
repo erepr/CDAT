@@ -1,0 +1,1005 @@
+Wellbeing,SiteDisease,BodyWeight,Appetite,AvgTemp,Above100F,Vomit,LiquidStools,Diarrhea,BowelMovements,Arthritis,Skin,Eye,AbdominalPain,Pain,PainAwake,AbdominalMass,AbdominalTenderness,Fissure,Blood,Result
+Terrible,Large Bowel,105,Fair,38,No,Yes,20 to 49,No,No,Yes,No,No,None,5 Hours,No,Absent,Severe,Yes,Yes,Fair to Good
+Terrible,Large Bowel,91,Poor,37,Yes,Yes,None,Yes,No,Yes,Yes,Yes,Moderate,< 1 Hour,No,Present,Severe,Yes,No,Poor
+Poor,Small Bowel,86,Fair,36,Yes,Yes,None,No,Yes,Yes,Yes,No,Mild,1 - 4 Hours,Yes,Questionable,Mild,Yes,No,Poor
+Terrible,Small Bowel,108,Fair,38,Yes,Yes,20 to 49,Yes,No,Yes,Yes,Yes,Moderate,5 Hours,No,Absent,None,Yes,No,Very Poor
+Very Poor,Both/Mixed,104,Fair,38,No,Yes,10 to 19,Yes,No,Yes,No,Yes,Moderate,1 - 4 Hours,Yes,Questionable,None,No,Yes,Poor
+Very Poor,Both/Mixed,110,Good,36,No,No,1 to 4,Yes,No,Yes,No,Yes,None,5 Hours,No,Present,Severe,Yes,No,Very Well
+Generally Well,Small Bowel,103,Fair,37,Yes,Yes,20 to 49,Yes,Yes,No,No,Yes,Mild,5 Hours,Yes,Questionable,Moderate,Yes,Yes,Very Well
+Generally Well,Both/Mixed,83,Poor,37,No,No,None,No,No,No,No,Yes,Severe,5 Hours,No,Present,Mild,Yes,Yes,Very Well
+Very Poor,Small Bowel,85,Good,36,Yes,Yes,20 to 49,Yes,No,No,No,Yes,Moderate,5 Hours,Yes,Questionable,Mild,Yes,No,Fair to Good
+Generally Well,Both/Mixed,90,Good,38,Yes,Yes,20 to 49,No,No,Yes,Yes,No,Severe,5 Hours,No,Absent,Mild,No,Yes,Fair to Good
+Terrible,Large Bowel,92,Good,38,No,No,None,Yes,No,No,Yes,No,Severe,5 Hours,Yes,Questionable,Mild,Yes,No,Poor
+Slightly below par,Both/Mixed,84,Fair,37,No,No,20 to 49,No,No,Yes,No,No,None,1 - 4 Hours,Yes,Absent,Moderate,No,No,Very Well
+Generally Well,Both/Mixed,80,Good,36,No,No,20 to 49,No,Yes,Yes,Yes,Yes,None,5 Hours,No,Present,None,Yes,No,Very Well
+Poor,Both/Mixed,107,Good,38,No,Yes,10 to 19,Yes,No,No,No,Yes,Moderate,5 Hours,Yes,Questionable,Mild,Yes,No,Poor
+Slightly below par,Both/Mixed,110,Poor,38,No,No,5 to 9,No,Yes,Yes,No,No,Severe,1 - 4 Hours,Yes,Questionable,None,Yes,Yes,Poor
+Terrible,Both/Mixed,119,Poor,36,No,No,20 to 49,No,Yes,No,Yes,No,Moderate,5 Hours,Yes,Questionable,Moderate,Yes,Yes,Very Well
+Generally Well,Both/Mixed,111,Good,36,Yes,No,1 to 4,No,Yes,No,Yes,No,Moderate,5 Hours,Yes,Present,Moderate,Yes,No,Very Poor
+Generally Well,Small Bowel,108,Good,38,No,Yes,None,Yes,Yes,Yes,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,Moderate,Yes,No,Fair to Good
+Slightly below par,Large Bowel,88,Fair,36,No,Yes,10 to 19,No,Yes,Yes,No,No,Severe,1 - 4 Hours,No,Present,None,Yes,Yes,Very Poor
+Terrible,Small Bowel,97,Good,38,Yes,No,None,No,No,Yes,No,No,None,< 1 Hour,No,Absent,None,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,95,Poor,37,Yes,Yes,None,No,Yes,Yes,No,Yes,Mild,5 Hours,No,Questionable,Severe,Yes,No,Poor
+Terrible,Large Bowel,116,Fair,37,No,Yes,5 to 9,Yes,No,No,No,Yes,Mild,< 1 Hour,No,Present,Mild,Yes,No,Poor
+Slightly below par,Large Bowel,103,Good,38,Yes,Yes,20 to 49,No,No,No,No,Yes,Mild,< 1 Hour,No,Present,None,Yes,No,Very Well
+Poor,Small Bowel,91,Fair,37,Yes,No,None,No,No,No,Yes,Yes,Severe,5 Hours,Yes,Present,None,Yes,Yes,Poor
+Poor,Small Bowel,110,Good,37,No,Yes,5 to 9,Yes,Yes,Yes,Yes,Yes,Severe,< 1 Hour,Yes,Absent,Mild,Yes,Yes,Fair to Good
+Very Poor,Large Bowel,92,Fair,38,Yes,No,1 to 4,No,No,No,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,Mild,No,No,Very Poor
+Terrible,Large Bowel,108,Fair,38,No,No,None,No,No,Yes,Yes,No,Mild,5 Hours,No,Absent,Severe,Yes,No,Poor
+Terrible,Both/Mixed,96,Good,38,No,No,1 to 4,Yes,Yes,No,No,Yes,None,< 1 Hour,Yes,Questionable,None,Yes,No,Very Well
+Very Poor,Both/Mixed,99,Fair,36,Yes,No,None,Yes,No,Yes,Yes,No,Moderate,5 Hours,No,Absent,Mild,Yes,Yes,Fair to Good
+Very Poor,Small Bowel,101,Fair,37,Yes,Yes,5 to 9,No,No,No,Yes,Yes,Mild,1 - 4 Hours,Yes,Questionable,Moderate,Yes,Yes,Very Poor
+Slightly below par,Both/Mixed,84,Good,37,No,Yes,None,No,No,Yes,No,No,Moderate,1 - 4 Hours,No,Questionable,None,Yes,No,Very Poor
+Very Poor,Small Bowel,95,Fair,36,No,Yes,20 to 49,Yes,Yes,Yes,No,No,Mild,1 - 4 Hours,Yes,Present,Mild,No,Yes,Very Well
+Slightly below par,Both/Mixed,88,Poor,38,No,Yes,1 to 4,No,No,Yes,No,No,None,1 - 4 Hours,No,Questionable,Mild,Yes,Yes,Fair to Good
+Poor,Small Bowel,89,Poor,36,Yes,Yes,1 to 4,No,Yes,Yes,Yes,Yes,Severe,5 Hours,No,Present,None,Yes,No,Very Well
+Very Poor,Small Bowel,110,Poor,36,Yes,Yes,None,No,Yes,No,Yes,No,None,5 Hours,No,Questionable,None,No,Yes,Poor
+Slightly below par,Large Bowel,88,Poor,37,Yes,Yes,10 to 19,Yes,Yes,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Present,Mild,No,Yes,Very Poor
+Slightly below par,Both/Mixed,89,Fair,38,No,No,5 to 9,Yes,No,No,No,No,Severe,5 Hours,No,Absent,Moderate,Yes,Yes,Fair to Good
+Slightly below par,Both/Mixed,115,Poor,36,Yes,Yes,None,No,No,Yes,Yes,No,Moderate,1 - 4 Hours,No,Present,Severe,Yes,No,Very Poor
+Very Poor,Small Bowel,84,Good,37,No,No,10 to 19,Yes,Yes,No,No,Yes,Moderate,5 Hours,Yes,Questionable,Mild,Yes,No,Very Poor
+Terrible,Large Bowel,81,Poor,38,Yes,Yes,5 to 9,Yes,No,No,Yes,Yes,Mild,5 Hours,No,Absent,Mild,No,No,Fair to Good
+Poor,Both/Mixed,98,Fair,38,No,No,None,Yes,Yes,Yes,No,Yes,Mild,5 Hours,No,Present,None,No,No,Poor
+Slightly below par,Small Bowel,97,Good,37,No,Yes,None,Yes,No,No,Yes,Yes,Severe,5 Hours,No,Absent,Moderate,No,Yes,Very Well
+Poor,Small Bowel,84,Fair,37,No,Yes,1 to 4,Yes,No,Yes,Yes,No,Moderate,1 - 4 Hours,No,Questionable,Severe,Yes,No,Fair to Good
+Very Poor,Large Bowel,81,Poor,38,Yes,Yes,20 to 49,Yes,No,Yes,No,No,Moderate,5 Hours,No,Present,None,No,No,Poor
+Very Poor,Large Bowel,93,Poor,37,Yes,Yes,10 to 19,Yes,No,No,No,No,Mild,< 1 Hour,No,Absent,None,No,Yes,Fair to Good
+Terrible,Both/Mixed,96,Fair,38,No,Yes,1 to 4,Yes,No,No,Yes,No,None,< 1 Hour,No,Questionable,Moderate,Yes,Yes,Poor
+Slightly below par,Both/Mixed,111,Poor,36,Yes,No,1 to 4,No,Yes,Yes,Yes,Yes,Severe,< 1 Hour,No,Questionable,Mild,Yes,Yes,Poor
+Very Poor,Large Bowel,115,Fair,38,Yes,Yes,1 to 4,Yes,Yes,Yes,No,Yes,None,1 - 4 Hours,Yes,Present,Severe,Yes,Yes,Poor
+Slightly below par,Large Bowel,118,Fair,38,No,Yes,20 to 49,Yes,Yes,Yes,No,No,Moderate,< 1 Hour,No,Absent,None,No,Yes,Very Well
+Very Poor,Small Bowel,90,Poor,38,Yes,No,5 to 9,Yes,No,No,No,Yes,None,1 - 4 Hours,No,Absent,Mild,No,No,Fair to Good
+Generally Well,Large Bowel,99,Poor,37,Yes,No,10 to 19,No,No,Yes,Yes,No,Moderate,< 1 Hour,Yes,Present,Moderate,No,Yes,Fair to Good
+Generally Well,Small Bowel,109,Good,36,Yes,No,20 to 49,No,No,Yes,No,No,Severe,< 1 Hour,Yes,Absent,Severe,Yes,Yes,Very Well
+Very Poor,Large Bowel,111,Fair,36,Yes,No,None,No,Yes,No,No,Yes,Severe,5 Hours,No,Present,None,No,Yes,Very Poor
+Slightly below par,Large Bowel,102,Fair,36,No,No,5 to 9,No,No,Yes,No,No,Severe,1 - 4 Hours,Yes,Present,Moderate,Yes,No,Very Poor
+Very Poor,Small Bowel,95,Good,36,Yes,No,None,Yes,No,Yes,Yes,No,Moderate,5 Hours,No,Present,Moderate,Yes,Yes,Fair to Good
+Terrible,Both/Mixed,100,Poor,36,Yes,Yes,None,Yes,No,No,No,Yes,Moderate,1 - 4 Hours,No,Questionable,None,No,No,Poor
+Terrible,Both/Mixed,105,Poor,36,No,No,20 to 49,Yes,No,Yes,No,No,Moderate,< 1 Hour,Yes,Questionable,Mild,Yes,No,Very Poor
+Very Poor,Both/Mixed,93,Fair,37,No,No,10 to 19,Yes,Yes,No,Yes,Yes,Severe,5 Hours,No,Questionable,Severe,No,Yes,Poor
+Poor,Both/Mixed,114,Fair,38,Yes,Yes,10 to 19,No,No,Yes,No,No,Mild,< 1 Hour,Yes,Questionable,Severe,No,No,Very Poor
+Terrible,Both/Mixed,83,Poor,37,Yes,No,None,No,Yes,Yes,Yes,No,Mild,5 Hours,Yes,Present,None,No,Yes,Fair to Good
+Poor,Small Bowel,113,Good,36,Yes,Yes,None,No,No,No,No,No,Moderate,< 1 Hour,No,Present,Mild,No,Yes,Poor
+Generally Well,Small Bowel,102,Fair,36,No,No,10 to 19,Yes,Yes,Yes,Yes,No,None,5 Hours,No,Present,None,Yes,No,Poor
+Generally Well,Small Bowel,93,Good,36,No,No,None,No,Yes,No,No,No,Moderate,5 Hours,No,Questionable,Severe,No,No,Poor
+Very Poor,Small Bowel,118,Good,36,No,Yes,None,Yes,No,Yes,No,No,Mild,5 Hours,Yes,Questionable,Moderate,Yes,No,Very Poor
+Generally Well,Both/Mixed,86,Good,38,No,No,10 to 19,No,No,Yes,Yes,No,Moderate,1 - 4 Hours,No,Present,Severe,Yes,No,Very Poor
+Generally Well,Large Bowel,110,Good,36,Yes,Yes,None,No,No,No,No,No,Severe,< 1 Hour,Yes,Absent,Severe,No,Yes,Very Well
+Terrible,Both/Mixed,95,Good,36,No,Yes,20 to 49,No,Yes,Yes,No,Yes,Severe,1 - 4 Hours,Yes,Present,Moderate,No,Yes,Poor
+Poor,Both/Mixed,117,Poor,38,Yes,No,5 to 9,Yes,No,No,No,No,Severe,5 Hours,No,Absent,None,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,116,Poor,38,No,Yes,None,Yes,Yes,No,Yes,No,Moderate,5 Hours,No,Absent,Severe,Yes,No,Very Poor
+Terrible,Large Bowel,94,Good,37,No,No,1 to 4,Yes,No,Yes,Yes,Yes,Severe,5 Hours,No,Present,Severe,No,No,Very Poor
+Poor,Both/Mixed,85,Poor,38,Yes,Yes,None,No,No,No,Yes,No,Mild,1 - 4 Hours,Yes,Questionable,Severe,No,Yes,Very Poor
+Generally Well,Large Bowel,83,Poor,37,Yes,Yes,5 to 9,No,Yes,Yes,No,Yes,Severe,< 1 Hour,No,Absent,None,No,No,Poor
+Slightly below par,Both/Mixed,89,Fair,38,No,No,5 to 9,No,No,No,No,Yes,None,1 - 4 Hours,No,Present,None,No,No,Poor
+Generally Well,Large Bowel,102,Fair,37,No,No,10 to 19,Yes,No,Yes,Yes,Yes,Moderate,< 1 Hour,No,Present,Severe,No,No,Poor
+Terrible,Small Bowel,86,Fair,36,Yes,No,None,No,Yes,No,No,No,Mild,5 Hours,No,Present,None,No,No,Poor
+Generally Well,Small Bowel,103,Poor,37,Yes,Yes,1 to 4,Yes,No,Yes,Yes,Yes,None,1 - 4 Hours,Yes,Absent,Mild,Yes,No,Poor
+Poor,Large Bowel,89,Fair,36,No,Yes,None,No,Yes,Yes,Yes,Yes,None,5 Hours,No,Questionable,Moderate,No,Yes,Poor
+Slightly below par,Large Bowel,85,Poor,36,Yes,Yes,5 to 9,Yes,No,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Absent,Moderate,Yes,Yes,Fair to Good
+Terrible,Both/Mixed,84,Poor,36,Yes,No,20 to 49,Yes,No,No,No,Yes,None,< 1 Hour,No,Absent,Mild,No,No,Very Poor
+Generally Well,Both/Mixed,112,Fair,36,No,Yes,10 to 19,Yes,Yes,No,Yes,No,Severe,5 Hours,No,Absent,Mild,No,Yes,Fair to Good
+Very Poor,Small Bowel,120,Poor,37,No,No,1 to 4,Yes,Yes,No,Yes,Yes,Severe,1 - 4 Hours,Yes,Questionable,Severe,No,No,Poor
+Very Poor,Small Bowel,98,Fair,37,Yes,No,1 to 4,No,Yes,Yes,Yes,No,None,5 Hours,Yes,Present,Moderate,Yes,Yes,Fair to Good
+Terrible,Small Bowel,92,Poor,38,No,No,1 to 4,No,Yes,No,Yes,No,Severe,5 Hours,Yes,Absent,Mild,No,Yes,Very Poor
+Slightly below par,Both/Mixed,117,Good,38,No,No,10 to 19,No,Yes,No,Yes,Yes,Moderate,< 1 Hour,Yes,Absent,Severe,No,No,Fair to Good
+Very Poor,Both/Mixed,100,Good,36,Yes,No,20 to 49,No,Yes,Yes,Yes,No,Mild,5 Hours,Yes,Questionable,Mild,No,No,Very Poor
+Terrible,Small Bowel,114,Poor,37,No,No,5 to 9,Yes,Yes,Yes,No,Yes,Mild,5 Hours,Yes,Questionable,None,Yes,No,Fair to Good
+Terrible,Large Bowel,115,Poor,38,No,Yes,5 to 9,No,Yes,No,Yes,No,Moderate,1 - 4 Hours,Yes,Questionable,None,Yes,No,Fair to Good
+Generally Well,Large Bowel,88,Good,37,Yes,Yes,1 to 4,No,No,No,No,No,Mild,1 - 4 Hours,No,Absent,Moderate,No,Yes,Fair to Good
+Slightly below par,Both/Mixed,96,Good,36,No,Yes,None,No,Yes,Yes,Yes,No,Mild,1 - 4 Hours,No,Present,Severe,No,No,Very Poor
+Slightly below par,Small Bowel,82,Good,38,No,No,10 to 19,No,No,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Questionable,Mild,No,No,Fair to Good
+Poor,Both/Mixed,97,Good,38,Yes,Yes,1 to 4,No,Yes,No,No,Yes,None,< 1 Hour,Yes,Questionable,None,Yes,No,Poor
+Terrible,Large Bowel,88,Poor,37,Yes,Yes,5 to 9,No,No,Yes,Yes,No,None,5 Hours,Yes,Present,None,No,No,Very Poor
+Poor,Large Bowel,85,Poor,38,No,Yes,20 to 49,Yes,Yes,No,Yes,Yes,None,< 1 Hour,Yes,Questionable,None,Yes,Yes,Very Well
+Terrible,Large Bowel,88,Poor,38,Yes,No,None,No,No,Yes,Yes,Yes,None,1 - 4 Hours,Yes,Absent,Severe,No,No,Fair to Good
+Slightly below par,Large Bowel,81,Poor,36,Yes,Yes,20 to 49,No,No,Yes,Yes,No,Severe,< 1 Hour,No,Questionable,Moderate,Yes,No,Very Poor
+Poor,Small Bowel,82,Poor,36,Yes,No,10 to 19,Yes,No,Yes,Yes,No,Severe,1 - 4 Hours,No,Questionable,Mild,No,No,Very Well
+Slightly below par,Large Bowel,103,Good,38,No,No,10 to 19,Yes,Yes,Yes,Yes,No,Mild,1 - 4 Hours,No,Present,None,Yes,No,Fair to Good
+Very Poor,Both/Mixed,89,Good,38,Yes,No,10 to 19,Yes,No,No,Yes,Yes,Severe,5 Hours,Yes,Questionable,None,No,Yes,Fair to Good
+Generally Well,Large Bowel,115,Poor,38,No,No,20 to 49,No,No,Yes,No,Yes,None,5 Hours,No,Present,Moderate,No,Yes,Fair to Good
+Poor,Large Bowel,89,Fair,37,No,No,1 to 4,No,No,Yes,Yes,No,None,1 - 4 Hours,Yes,Questionable,Moderate,Yes,Yes,Very Well
+Generally Well,Small Bowel,95,Poor,36,No,No,None,Yes,No,No,No,Yes,None,5 Hours,Yes,Absent,None,Yes,No,Fair to Good
+Terrible,Both/Mixed,94,Good,36,No,No,None,Yes,Yes,Yes,Yes,Yes,Mild,< 1 Hour,Yes,Present,Severe,Yes,Yes,Very Poor
+Very Poor,Small Bowel,83,Good,36,No,No,1 to 4,Yes,No,Yes,No,No,Moderate,5 Hours,Yes,Present,Severe,Yes,No,Poor
+Slightly below par,Large Bowel,115,Fair,37,Yes,No,5 to 9,Yes,No,No,Yes,No,Mild,< 1 Hour,Yes,Absent,None,No,Yes,Fair to Good
+Terrible,Large Bowel,88,Fair,36,Yes,No,1 to 4,Yes,Yes,No,No,No,Severe,< 1 Hour,No,Absent,Moderate,No,No,Poor
+Generally Well,Small Bowel,114,Poor,37,Yes,Yes,20 to 49,No,Yes,No,Yes,Yes,Severe,5 Hours,No,Absent,None,Yes,No,Very Poor
+Poor,Both/Mixed,92,Fair,37,Yes,No,5 to 9,No,Yes,No,No,No,Severe,1 - 4 Hours,No,Present,Mild,Yes,No,Poor
+Generally Well,Small Bowel,102,Poor,38,Yes,Yes,10 to 19,Yes,No,Yes,Yes,No,Mild,< 1 Hour,Yes,Present,None,No,Yes,Poor
+Very Poor,Large Bowel,109,Poor,36,No,Yes,5 to 9,Yes,Yes,No,No,No,Mild,5 Hours,Yes,Present,Severe,Yes,No,Poor
+Terrible,Small Bowel,96,Poor,36,Yes,No,10 to 19,No,Yes,Yes,Yes,No,Severe,< 1 Hour,Yes,Present,Mild,Yes,No,Poor
+Terrible,Small Bowel,84,Poor,37,No,No,20 to 49,No,No,No,Yes,Yes,None,< 1 Hour,No,Present,Moderate,No,Yes,Fair to Good
+Generally Well,Both/Mixed,114,Fair,36,Yes,No,None,Yes,No,No,No,Yes,Mild,5 Hours,Yes,Absent,None,No,Yes,Fair to Good
+Generally Well,Large Bowel,111,Fair,37,Yes,Yes,5 to 9,Yes,No,No,Yes,No,Severe,5 Hours,Yes,Absent,Severe,No,Yes,Poor
+Slightly below par,Small Bowel,108,Good,38,No,Yes,None,Yes,Yes,No,No,No,None,5 Hours,Yes,Present,Severe,No,Yes,Very Poor
+Generally Well,Large Bowel,80,Good,37,No,Yes,5 to 9,No,No,No,No,No,Mild,< 1 Hour,Yes,Questionable,None,Yes,Yes,Fair to Good
+Generally Well,Large Bowel,85,Poor,36,No,No,10 to 19,No,Yes,No,No,Yes,Moderate,5 Hours,No,Absent,Moderate,Yes,Yes,Very Well
+Poor,Both/Mixed,81,Poor,37,No,No,None,Yes,No,No,No,Yes,Mild,1 - 4 Hours,No,Present,Severe,Yes,No,Very Well
+Poor,Both/Mixed,83,Poor,37,Yes,Yes,None,Yes,Yes,No,Yes,Yes,Severe,< 1 Hour,No,Present,Severe,No,Yes,Very Poor
+Generally Well,Large Bowel,111,Fair,37,Yes,No,5 to 9,No,Yes,Yes,No,No,Moderate,< 1 Hour,Yes,Absent,Severe,No,No,Very Poor
+Generally Well,Both/Mixed,85,Fair,36,No,No,None,No,No,No,No,Yes,None,1 - 4 Hours,No,Present,Moderate,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,120,Good,36,Yes,Yes,5 to 9,Yes,Yes,Yes,Yes,No,Severe,< 1 Hour,Yes,Present,None,Yes,Yes,Fair to Good
+Slightly below par,Small Bowel,108,Fair,37,Yes,Yes,5 to 9,No,Yes,No,Yes,No,Mild,< 1 Hour,Yes,Questionable,Mild,Yes,Yes,Poor
+Poor,Small Bowel,92,Fair,37,No,No,5 to 9,Yes,Yes,No,No,No,None,5 Hours,No,Present,Mild,Yes,Yes,Very Poor
+Generally Well,Large Bowel,107,Poor,38,No,No,10 to 19,No,Yes,No,No,Yes,None,5 Hours,Yes,Questionable,Moderate,Yes,Yes,Very Well
+Generally Well,Large Bowel,81,Good,37,No,No,None,Yes,No,Yes,Yes,No,None,< 1 Hour,Yes,Present,Moderate,Yes,No,Very Poor
+Poor,Both/Mixed,97,Fair,37,Yes,Yes,5 to 9,Yes,Yes,No,No,No,None,5 Hours,No,Questionable,None,Yes,Yes,Fair to Good
+Generally Well,Both/Mixed,96,Poor,36,No,Yes,5 to 9,No,Yes,Yes,Yes,Yes,None,1 - 4 Hours,No,Present,None,Yes,Yes,Poor
+Poor,Both/Mixed,88,Poor,37,Yes,Yes,20 to 49,No,Yes,Yes,Yes,Yes,None,5 Hours,No,Absent,Moderate,No,No,Very Poor
+Terrible,Both/Mixed,106,Poor,38,Yes,Yes,5 to 9,Yes,Yes,Yes,Yes,No,Mild,5 Hours,Yes,Present,Mild,Yes,No,Poor
+Very Poor,Both/Mixed,106,Fair,37,No,No,10 to 19,No,Yes,Yes,No,No,Moderate,5 Hours,No,Questionable,None,Yes,No,Fair to Good
+Slightly below par,Small Bowel,115,Poor,38,No,Yes,20 to 49,Yes,No,Yes,No,Yes,Severe,< 1 Hour,No,Present,Severe,No,No,Very Well
+Terrible,Both/Mixed,113,Fair,38,No,Yes,1 to 4,No,Yes,Yes,Yes,No,Mild,1 - 4 Hours,No,Absent,Severe,Yes,Yes,Poor
+Slightly below par,Large Bowel,106,Poor,36,No,Yes,None,Yes,No,Yes,No,Yes,Mild,< 1 Hour,Yes,Questionable,Severe,No,No,Very Well
+Poor,Small Bowel,114,Poor,36,Yes,No,None,No,Yes,Yes,Yes,Yes,Severe,5 Hours,No,Absent,Severe,No,No,Poor
+Terrible,Both/Mixed,85,Good,38,Yes,Yes,1 to 4,No,Yes,No,No,No,Mild,5 Hours,No,Questionable,Severe,No,No,Poor
+Terrible,Large Bowel,110,Good,37,Yes,Yes,1 to 4,Yes,No,No,No,No,Moderate,1 - 4 Hours,Yes,Present,None,No,Yes,Poor
+Generally Well,Both/Mixed,115,Poor,38,Yes,No,5 to 9,No,Yes,No,No,No,Mild,< 1 Hour,Yes,Absent,Moderate,Yes,Yes,Very Well
+Poor,Both/Mixed,107,Good,37,Yes,No,None,Yes,No,Yes,No,No,None,5 Hours,No,Questionable,None,No,Yes,Fair to Good
+Slightly below par,Large Bowel,101,Fair,36,No,No,None,Yes,No,Yes,Yes,Yes,Severe,5 Hours,Yes,Questionable,Severe,No,No,Very Well
+Poor,Small Bowel,101,Good,38,Yes,Yes,None,Yes,Yes,No,Yes,Yes,None,5 Hours,Yes,Present,Mild,Yes,Yes,Fair to Good
+Slightly below par,Large Bowel,83,Good,37,No,Yes,20 to 49,No,No,Yes,Yes,Yes,Mild,< 1 Hour,Yes,Questionable,Moderate,No,No,Poor
+Generally Well,Both/Mixed,119,Poor,36,Yes,Yes,1 to 4,Yes,Yes,No,No,No,Mild,1 - 4 Hours,No,Questionable,Moderate,No,Yes,Poor
+Slightly below par,Large Bowel,101,Good,38,No,No,None,Yes,No,No,No,Yes,None,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Fair to Good
+Slightly below par,Small Bowel,105,Poor,38,No,No,10 to 19,Yes,Yes,No,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,Moderate,No,Yes,Poor
+Slightly below par,Small Bowel,88,Poor,38,No,Yes,1 to 4,No,No,Yes,Yes,Yes,Severe,5 Hours,Yes,Absent,Severe,No,No,Very Poor
+Poor,Small Bowel,116,Good,37,No,Yes,1 to 4,No,Yes,No,No,No,Mild,1 - 4 Hours,No,Absent,Mild,No,No,Fair to Good
+Poor,Small Bowel,114,Good,36,Yes,No,None,Yes,Yes,No,Yes,No,Moderate,5 Hours,Yes,Present,Moderate,No,No,Very Poor
+Poor,Small Bowel,120,Poor,37,Yes,Yes,10 to 19,Yes,No,Yes,No,No,None,1 - 4 Hours,No,Absent,Mild,No,Yes,Poor
+Generally Well,Small Bowel,86,Poor,37,Yes,Yes,20 to 49,No,No,No,Yes,No,Moderate,5 Hours,No,Present,Severe,Yes,Yes,Poor
+Terrible,Small Bowel,109,Good,36,Yes,Yes,5 to 9,Yes,No,No,Yes,No,Severe,1 - 4 Hours,Yes,Absent,Moderate,No,Yes,Fair to Good
+Very Poor,Both/Mixed,108,Poor,37,No,Yes,1 to 4,Yes,No,No,No,No,Severe,5 Hours,Yes,Absent,Mild,Yes,No,Poor
+Very Poor,Both/Mixed,92,Good,36,Yes,No,20 to 49,Yes,No,No,No,Yes,Severe,< 1 Hour,Yes,Absent,Moderate,No,Yes,Poor
+Very Poor,Small Bowel,110,Fair,38,Yes,No,20 to 49,No,No,Yes,Yes,No,Severe,< 1 Hour,No,Present,Severe,No,No,Very Well
+Terrible,Both/Mixed,102,Poor,38,Yes,Yes,1 to 4,Yes,Yes,Yes,Yes,Yes,Moderate,5 Hours,No,Questionable,Mild,No,Yes,Very Well
+Terrible,Large Bowel,87,Poor,38,No,No,20 to 49,Yes,Yes,Yes,No,Yes,Severe,5 Hours,Yes,Absent,None,No,No,Very Poor
+Poor,Large Bowel,106,Poor,37,Yes,No,20 to 49,Yes,Yes,No,Yes,Yes,Severe,< 1 Hour,Yes,Questionable,Mild,Yes,No,Very Well
+Very Poor,Small Bowel,87,Fair,36,Yes,Yes,1 to 4,No,Yes,Yes,No,Yes,Severe,< 1 Hour,Yes,Questionable,Mild,No,No,Poor
+Generally Well,Large Bowel,116,Fair,36,Yes,No,None,No,No,No,No,Yes,Moderate,5 Hours,Yes,Present,Mild,Yes,No,Very Well
+Terrible,Small Bowel,84,Good,36,No,No,5 to 9,Yes,Yes,Yes,No,No,Severe,5 Hours,No,Present,Mild,Yes,No,Very Poor
+Generally Well,Large Bowel,119,Poor,36,No,Yes,5 to 9,Yes,Yes,No,Yes,No,None,1 - 4 Hours,No,Present,None,No,Yes,Fair to Good
+Terrible,Large Bowel,101,Good,36,No,Yes,1 to 4,No,Yes,No,No,Yes,Severe,1 - 4 Hours,Yes,Present,None,Yes,No,Very Poor
+Generally Well,Both/Mixed,100,Good,36,No,No,1 to 4,No,No,No,Yes,Yes,Severe,1 - 4 Hours,Yes,Present,None,Yes,No,Fair to Good
+Very Poor,Large Bowel,110,Fair,36,Yes,Yes,5 to 9,No,No,No,No,No,Mild,1 - 4 Hours,No,Absent,Moderate,Yes,No,Fair to Good
+Very Poor,Large Bowel,86,Fair,37,No,Yes,None,No,No,No,No,Yes,Moderate,1 - 4 Hours,No,Absent,None,No,No,Poor
+Poor,Large Bowel,88,Poor,36,No,Yes,10 to 19,Yes,No,Yes,Yes,Yes,Severe,5 Hours,No,Present,Mild,No,No,Very Poor
+Poor,Small Bowel,95,Good,36,Yes,Yes,20 to 49,Yes,Yes,Yes,No,Yes,Severe,5 Hours,Yes,Present,Moderate,No,Yes,Very Poor
+Poor,Small Bowel,108,Fair,36,Yes,Yes,10 to 19,No,No,Yes,No,No,Severe,1 - 4 Hours,Yes,Absent,None,No,No,Very Well
+Slightly below par,Large Bowel,106,Good,38,Yes,No,10 to 19,Yes,No,No,No,Yes,Severe,< 1 Hour,No,Absent,Moderate,No,Yes,Poor
+Very Poor,Small Bowel,113,Poor,37,No,No,5 to 9,No,No,Yes,Yes,No,None,1 - 4 Hours,Yes,Present,Severe,Yes,No,Very Well
+Generally Well,Small Bowel,98,Poor,36,No,Yes,1 to 4,No,No,No,Yes,Yes,Severe,< 1 Hour,Yes,Absent,Severe,No,No,Fair to Good
+Poor,Both/Mixed,94,Good,37,No,Yes,1 to 4,Yes,Yes,No,No,Yes,None,< 1 Hour,Yes,Absent,None,Yes,No,Very Poor
+Slightly below par,Both/Mixed,96,Good,38,Yes,No,1 to 4,No,No,Yes,Yes,Yes,Severe,< 1 Hour,No,Absent,Moderate,No,Yes,Very Poor
+Poor,Both/Mixed,95,Good,36,Yes,Yes,5 to 9,No,Yes,Yes,No,No,Moderate,< 1 Hour,No,Present,None,Yes,Yes,Very Poor
+Terrible,Small Bowel,98,Good,38,Yes,Yes,5 to 9,No,Yes,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Present,Severe,Yes,Yes,Very Well
+Poor,Both/Mixed,106,Fair,37,Yes,No,5 to 9,Yes,Yes,Yes,Yes,Yes,Severe,< 1 Hour,No,Questionable,Mild,Yes,Yes,Poor
+Very Poor,Small Bowel,88,Fair,38,No,Yes,1 to 4,Yes,Yes,Yes,Yes,No,None,5 Hours,Yes,Absent,None,No,Yes,Very Poor
+Terrible,Small Bowel,92,Good,37,No,No,20 to 49,Yes,Yes,No,No,No,None,1 - 4 Hours,No,Questionable,Severe,Yes,No,Very Well
+Very Poor,Large Bowel,112,Fair,37,No,Yes,10 to 19,Yes,Yes,No,Yes,Yes,Mild,< 1 Hour,No,Present,None,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,108,Poor,38,No,No,None,No,Yes,Yes,Yes,No,Severe,5 Hours,Yes,Absent,None,Yes,No,Very Well
+Generally Well,Both/Mixed,108,Fair,38,No,Yes,20 to 49,No,No,Yes,Yes,No,Mild,1 - 4 Hours,No,Questionable,None,No,Yes,Fair to Good
+Terrible,Both/Mixed,96,Fair,38,No,Yes,10 to 19,Yes,No,No,Yes,Yes,Moderate,5 Hours,No,Absent,Moderate,Yes,Yes,Very Well
+Terrible,Small Bowel,88,Poor,36,No,Yes,10 to 19,No,No,Yes,No,No,Mild,5 Hours,No,Absent,None,No,Yes,Very Poor
+Very Poor,Large Bowel,110,Poor,38,Yes,No,10 to 19,No,Yes,Yes,No,No,None,1 - 4 Hours,Yes,Absent,Mild,Yes,No,Fair to Good
+Poor,Small Bowel,105,Fair,38,Yes,Yes,10 to 19,No,Yes,Yes,No,Yes,Moderate,< 1 Hour,Yes,Absent,None,Yes,No,Poor
+Generally Well,Both/Mixed,89,Good,36,Yes,Yes,None,No,Yes,No,No,No,Moderate,5 Hours,No,Questionable,Mild,No,No,Very Poor
+Poor,Large Bowel,120,Poor,36,Yes,No,1 to 4,No,Yes,No,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,Moderate,Yes,Yes,Very Well
+Very Poor,Large Bowel,89,Good,38,No,No,10 to 19,No,No,Yes,Yes,Yes,Severe,< 1 Hour,No,Present,Mild,Yes,Yes,Poor
+Poor,Small Bowel,102,Poor,36,No,No,None,No,No,Yes,No,Yes,Moderate,1 - 4 Hours,No,Present,Mild,Yes,No,Poor
+Very Poor,Both/Mixed,107,Fair,38,No,No,5 to 9,No,No,Yes,Yes,No,Mild,1 - 4 Hours,No,Present,Moderate,Yes,Yes,Very Well
+Very Poor,Both/Mixed,92,Fair,37,Yes,Yes,5 to 9,Yes,No,No,No,Yes,Moderate,5 Hours,Yes,Questionable,Severe,Yes,Yes,Very Poor
+Terrible,Both/Mixed,83,Good,37,Yes,No,None,Yes,Yes,No,Yes,Yes,Mild,5 Hours,No,Absent,Mild,No,No,Very Poor
+Terrible,Large Bowel,86,Fair,38,No,Yes,5 to 9,No,Yes,No,No,No,Mild,< 1 Hour,No,Present,Severe,Yes,No,Very Well
+Generally Well,Both/Mixed,80,Poor,38,Yes,Yes,1 to 4,No,Yes,Yes,Yes,Yes,Severe,5 Hours,No,Absent,Severe,No,Yes,Poor
+Slightly below par,Both/Mixed,112,Good,38,No,Yes,None,No,Yes,Yes,No,No,Mild,< 1 Hour,Yes,Questionable,Moderate,No,Yes,Poor
+Very Poor,Small Bowel,84,Poor,38,Yes,Yes,1 to 4,No,Yes,Yes,No,Yes,None,5 Hours,No,Absent,Mild,No,No,Poor
+Slightly below par,Small Bowel,84,Fair,36,Yes,Yes,5 to 9,Yes,No,Yes,Yes,Yes,None,5 Hours,Yes,Absent,Mild,No,No,Very Well
+Very Poor,Small Bowel,120,Fair,38,No,No,5 to 9,Yes,Yes,Yes,Yes,Yes,None,< 1 Hour,No,Absent,Severe,Yes,No,Very Well
+Very Poor,Large Bowel,103,Good,37,No,Yes,1 to 4,Yes,No,No,Yes,Yes,Severe,< 1 Hour,No,Questionable,None,Yes,Yes,Fair to Good
+Generally Well,Small Bowel,83,Poor,38,No,No,10 to 19,No,No,No,Yes,Yes,None,1 - 4 Hours,No,Absent,None,No,No,Fair to Good
+Slightly below par,Small Bowel,104,Fair,37,No,Yes,1 to 4,No,No,No,No,No,None,1 - 4 Hours,Yes,Present,Mild,Yes,Yes,Poor
+Very Poor,Both/Mixed,82,Fair,36,Yes,No,None,Yes,Yes,Yes,No,No,None,5 Hours,Yes,Present,None,No,No,Poor
+Poor,Both/Mixed,112,Fair,37,Yes,Yes,10 to 19,No,Yes,Yes,Yes,Yes,Moderate,5 Hours,Yes,Present,None,No,Yes,Poor
+Generally Well,Small Bowel,98,Fair,38,No,Yes,5 to 9,Yes,Yes,No,Yes,No,None,1 - 4 Hours,Yes,Absent,Moderate,Yes,Yes,Poor
+Terrible,Small Bowel,93,Fair,38,Yes,No,1 to 4,Yes,Yes,No,Yes,Yes,None,< 1 Hour,Yes,Absent,None,Yes,No,Fair to Good
+Terrible,Both/Mixed,87,Good,38,Yes,No,None,Yes,Yes,Yes,No,Yes,Mild,1 - 4 Hours,No,Present,Mild,Yes,No,Fair to Good
+Terrible,Small Bowel,83,Good,36,Yes,No,1 to 4,No,Yes,Yes,Yes,Yes,None,< 1 Hour,Yes,Present,Severe,No,Yes,Very Poor
+Poor,Small Bowel,81,Poor,36,Yes,Yes,None,Yes,No,Yes,No,Yes,Severe,1 - 4 Hours,Yes,Present,None,No,Yes,Very Well
+Poor,Both/Mixed,114,Fair,37,Yes,Yes,1 to 4,No,No,Yes,Yes,Yes,Severe,5 Hours,No,Questionable,Mild,No,No,Very Well
+Poor,Small Bowel,113,Good,37,No,No,None,No,Yes,Yes,Yes,Yes,Mild,5 Hours,Yes,Present,Moderate,No,No,Poor
+Poor,Both/Mixed,117,Poor,38,Yes,No,1 to 4,Yes,No,No,Yes,Yes,Severe,< 1 Hour,No,Absent,Mild,Yes,Yes,Very Poor
+Generally Well,Both/Mixed,108,Fair,37,Yes,No,1 to 4,Yes,No,Yes,Yes,Yes,None,5 Hours,Yes,Absent,Severe,Yes,No,Very Well
+Poor,Both/Mixed,103,Fair,36,No,Yes,20 to 49,Yes,Yes,No,Yes,No,Mild,< 1 Hour,Yes,Questionable,Severe,Yes,Yes,Poor
+Terrible,Both/Mixed,120,Fair,38,Yes,Yes,5 to 9,Yes,Yes,No,No,Yes,Severe,< 1 Hour,No,Questionable,Moderate,Yes,No,Very Poor
+Generally Well,Large Bowel,93,Fair,37,No,Yes,10 to 19,No,Yes,No,No,Yes,Severe,< 1 Hour,No,Questionable,Severe,Yes,No,Fair to Good
+Terrible,Small Bowel,108,Fair,37,Yes,Yes,None,No,No,Yes,No,No,Severe,1 - 4 Hours,No,Present,Severe,No,Yes,Poor
+Very Poor,Both/Mixed,113,Good,38,Yes,Yes,None,Yes,No,No,No,Yes,Severe,< 1 Hour,Yes,Present,None,Yes,Yes,Very Well
+Terrible,Both/Mixed,80,Fair,37,Yes,Yes,10 to 19,No,Yes,No,Yes,Yes,None,1 - 4 Hours,Yes,Present,Severe,Yes,No,Very Well
+Slightly below par,Both/Mixed,93,Fair,37,No,No,20 to 49,Yes,No,No,No,No,Mild,< 1 Hour,Yes,Absent,Moderate,No,No,Poor
+Generally Well,Both/Mixed,102,Fair,37,Yes,No,5 to 9,No,No,No,No,Yes,None,< 1 Hour,No,Questionable,Moderate,Yes,Yes,Very Well
+Poor,Both/Mixed,87,Poor,36,No,No,5 to 9,Yes,No,Yes,Yes,Yes,Mild,< 1 Hour,No,Questionable,Moderate,No,Yes,Very Poor
+Generally Well,Both/Mixed,91,Good,36,Yes,Yes,1 to 4,No,No,No,No,Yes,Severe,< 1 Hour,Yes,Present,Moderate,Yes,Yes,Fair to Good
+Poor,Both/Mixed,83,Fair,36,Yes,No,1 to 4,Yes,Yes,No,Yes,Yes,Mild,5 Hours,Yes,Present,Moderate,Yes,No,Very Poor
+Slightly below par,Small Bowel,113,Good,37,No,No,10 to 19,Yes,No,No,No,Yes,Severe,5 Hours,No,Present,Mild,Yes,Yes,Very Well
+Very Poor,Small Bowel,83,Poor,36,Yes,Yes,5 to 9,No,Yes,No,No,No,Mild,5 Hours,No,Present,Moderate,Yes,No,Fair to Good
+Slightly below par,Large Bowel,90,Fair,36,No,No,10 to 19,No,Yes,No,Yes,Yes,None,1 - 4 Hours,Yes,Present,Moderate,Yes,Yes,Poor
+Very Poor,Small Bowel,108,Fair,38,Yes,Yes,None,No,No,Yes,No,No,Severe,5 Hours,No,Present,None,No,Yes,Fair to Good
+Generally Well,Small Bowel,83,Poor,38,Yes,Yes,5 to 9,Yes,No,Yes,No,No,None,< 1 Hour,No,Present,Severe,No,Yes,Fair to Good
+Very Poor,Both/Mixed,104,Fair,38,Yes,No,5 to 9,No,No,Yes,Yes,Yes,Mild,1 - 4 Hours,No,Absent,Mild,No,Yes,Fair to Good
+Slightly below par,Small Bowel,115,Good,37,Yes,No,10 to 19,No,Yes,Yes,No,Yes,Moderate,5 Hours,No,Questionable,Severe,No,No,Poor
+Poor,Large Bowel,84,Poor,38,No,No,20 to 49,No,No,No,Yes,Yes,Mild,5 Hours,No,Present,Severe,No,Yes,Very Well
+Terrible,Small Bowel,95,Good,37,Yes,Yes,10 to 19,No,No,Yes,No,No,Moderate,< 1 Hour,Yes,Absent,Moderate,Yes,Yes,Poor
+Very Poor,Both/Mixed,83,Good,37,Yes,No,1 to 4,Yes,Yes,Yes,Yes,No,None,1 - 4 Hours,No,Present,None,No,No,Very Poor
+Terrible,Small Bowel,83,Fair,38,Yes,No,None,Yes,Yes,Yes,No,No,Severe,5 Hours,No,Absent,Severe,No,Yes,Very Well
+Very Poor,Large Bowel,117,Fair,38,No,No,None,Yes,Yes,No,No,No,Moderate,1 - 4 Hours,Yes,Questionable,None,No,No,Poor
+Terrible,Large Bowel,90,Poor,38,No,No,20 to 49,Yes,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Present,Moderate,Yes,Yes,Very Well
+Very Poor,Both/Mixed,83,Fair,38,No,Yes,20 to 49,No,Yes,Yes,Yes,No,Moderate,5 Hours,No,Present,Mild,Yes,No,Poor
+Terrible,Both/Mixed,83,Fair,36,No,Yes,10 to 19,No,No,No,Yes,Yes,Severe,1 - 4 Hours,No,Present,Severe,Yes,Yes,Fair to Good
+Very Poor,Both/Mixed,84,Poor,38,No,Yes,10 to 19,No,No,Yes,No,No,Severe,1 - 4 Hours,Yes,Questionable,Moderate,Yes,No,Very Well
+Slightly below par,Both/Mixed,97,Good,38,Yes,No,5 to 9,No,No,No,Yes,No,Mild,5 Hours,No,Questionable,Severe,Yes,Yes,Poor
+Slightly below par,Large Bowel,81,Fair,38,No,Yes,20 to 49,No,Yes,Yes,No,No,Mild,< 1 Hour,Yes,Absent,Mild,No,Yes,Poor
+Generally Well,Small Bowel,81,Fair,37,No,Yes,20 to 49,No,No,No,No,No,None,< 1 Hour,No,Absent,None,No,No,Very Poor
+Slightly below par,Small Bowel,80,Poor,37,No,No,20 to 49,No,No,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Absent,Moderate,Yes,Yes,Very Poor
+Generally Well,Small Bowel,111,Fair,37,No,Yes,5 to 9,No,Yes,Yes,Yes,Yes,Mild,< 1 Hour,No,Questionable,None,No,Yes,Very Poor
+Very Poor,Large Bowel,91,Good,37,Yes,No,20 to 49,Yes,No,No,Yes,Yes,Mild,5 Hours,Yes,Absent,Mild,Yes,No,Poor
+Poor,Small Bowel,95,Fair,38,Yes,Yes,1 to 4,Yes,Yes,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Questionable,Moderate,Yes,Yes,Fair to Good
+Terrible,Small Bowel,97,Poor,37,No,No,10 to 19,Yes,Yes,No,Yes,Yes,Mild,1 - 4 Hours,No,Questionable,None,No,Yes,Poor
+Terrible,Large Bowel,116,Poor,36,No,Yes,None,Yes,Yes,Yes,No,No,Mild,5 Hours,Yes,Questionable,Mild,No,No,Very Poor
+Terrible,Small Bowel,83,Good,37,No,No,10 to 19,No,Yes,Yes,Yes,Yes,Severe,1 - 4 Hours,Yes,Absent,Mild,No,Yes,Poor
+Very Poor,Large Bowel,88,Fair,38,Yes,Yes,5 to 9,No,No,No,Yes,Yes,Moderate,5 Hours,No,Absent,Severe,Yes,Yes,Fair to Good
+Slightly below par,Both/Mixed,94,Good,37,No,Yes,10 to 19,Yes,Yes,No,Yes,No,Moderate,5 Hours,No,Questionable,Mild,No,Yes,Poor
+Slightly below par,Both/Mixed,95,Fair,37,No,No,1 to 4,Yes,No,No,No,No,Moderate,5 Hours,No,Present,Moderate,No,Yes,Very Poor
+Poor,Both/Mixed,98,Poor,36,Yes,No,None,Yes,Yes,Yes,No,Yes,Severe,< 1 Hour,Yes,Present,Mild,Yes,No,Very Poor
+Poor,Large Bowel,96,Fair,38,No,No,10 to 19,Yes,No,Yes,Yes,Yes,Severe,1 - 4 Hours,Yes,Present,None,Yes,Yes,Very Well
+Terrible,Small Bowel,87,Fair,36,Yes,No,1 to 4,No,No,No,No,Yes,Moderate,5 Hours,No,Absent,None,Yes,Yes,Very Poor
+Generally Well,Both/Mixed,108,Good,36,Yes,No,20 to 49,Yes,Yes,Yes,No,No,Severe,< 1 Hour,Yes,Absent,Mild,No,No,Very Poor
+Poor,Both/Mixed,118,Fair,36,Yes,No,5 to 9,Yes,Yes,Yes,No,Yes,Moderate,1 - 4 Hours,Yes,Present,Severe,No,No,Very Well
+Generally Well,Small Bowel,92,Good,38,Yes,Yes,None,No,Yes,No,Yes,No,Moderate,1 - 4 Hours,Yes,Questionable,None,Yes,No,Very Poor
+Very Poor,Both/Mixed,107,Good,36,Yes,Yes,1 to 4,Yes,No,Yes,Yes,Yes,Severe,1 - 4 Hours,Yes,Present,Moderate,No,Yes,Fair to Good
+Poor,Small Bowel,107,Poor,38,Yes,No,1 to 4,No,Yes,No,No,Yes,None,1 - 4 Hours,No,Absent,Mild,Yes,No,Poor
+Very Poor,Both/Mixed,114,Good,36,No,Yes,20 to 49,Yes,No,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Questionable,Mild,No,No,Very Poor
+Generally Well,Large Bowel,113,Poor,38,Yes,No,5 to 9,Yes,Yes,Yes,No,Yes,Moderate,1 - 4 Hours,No,Questionable,Mild,No,No,Fair to Good
+Very Poor,Small Bowel,89,Good,37,No,Yes,None,No,No,No,Yes,Yes,None,< 1 Hour,Yes,Present,Mild,No,Yes,Poor
+Slightly below par,Large Bowel,116,Fair,37,Yes,Yes,10 to 19,No,Yes,No,Yes,No,Moderate,< 1 Hour,No,Present,Mild,Yes,No,Very Poor
+Poor,Both/Mixed,85,Fair,36,No,Yes,1 to 4,No,No,No,No,Yes,Mild,1 - 4 Hours,No,Questionable,Mild,No,Yes,Fair to Good
+Very Poor,Small Bowel,105,Fair,37,Yes,No,None,No,No,Yes,Yes,No,Severe,< 1 Hour,Yes,Absent,None,No,Yes,Very Well
+Very Poor,Both/Mixed,111,Fair,37,Yes,No,20 to 49,Yes,No,No,No,Yes,Severe,< 1 Hour,No,Questionable,Moderate,No,Yes,Very Well
+Poor,Large Bowel,119,Fair,37,No,No,1 to 4,No,No,No,No,No,None,< 1 Hour,Yes,Absent,None,Yes,Yes,Very Poor
+Very Poor,Large Bowel,86,Fair,37,Yes,Yes,10 to 19,Yes,Yes,No,No,No,Moderate,< 1 Hour,No,Absent,Severe,Yes,No,Poor
+Very Poor,Both/Mixed,88,Fair,38,No,No,None,No,Yes,Yes,Yes,Yes,Severe,5 Hours,No,Questionable,None,Yes,Yes,Poor
+Generally Well,Small Bowel,117,Good,38,No,Yes,5 to 9,Yes,Yes,Yes,No,No,Moderate,< 1 Hour,No,Questionable,Severe,Yes,No,Fair to Good
+Slightly below par,Large Bowel,90,Poor,38,No,Yes,1 to 4,Yes,Yes,Yes,No,Yes,Severe,5 Hours,Yes,Questionable,Mild,Yes,No,Very Well
+Poor,Both/Mixed,97,Good,37,Yes,No,5 to 9,Yes,No,Yes,No,No,Moderate,5 Hours,Yes,Present,Severe,Yes,No,Very Poor
+Poor,Large Bowel,83,Fair,37,Yes,Yes,20 to 49,Yes,No,No,No,No,Mild,1 - 4 Hours,No,Questionable,Moderate,Yes,No,Very Poor
+Poor,Both/Mixed,120,Poor,38,Yes,No,None,No,No,Yes,No,Yes,Severe,1 - 4 Hours,No,Absent,None,Yes,Yes,Very Well
+Generally Well,Large Bowel,117,Poor,38,No,Yes,None,No,Yes,No,Yes,Yes,Moderate,< 1 Hour,Yes,Present,None,No,No,Fair to Good
+Generally Well,Both/Mixed,87,Poor,38,No,Yes,None,Yes,No,No,Yes,Yes,Mild,< 1 Hour,Yes,Questionable,Moderate,No,No,Very Poor
+Slightly below par,Both/Mixed,86,Fair,36,No,Yes,1 to 4,Yes,Yes,Yes,Yes,No,Severe,5 Hours,No,Present,Moderate,Yes,Yes,Poor
+Slightly below par,Both/Mixed,99,Poor,37,Yes,Yes,5 to 9,No,Yes,Yes,No,No,Severe,5 Hours,Yes,Present,Mild,Yes,No,Very Poor
+Very Poor,Large Bowel,100,Poor,38,No,Yes,20 to 49,Yes,No,Yes,No,No,Moderate,1 - 4 Hours,Yes,Absent,Severe,No,Yes,Poor
+Slightly below par,Large Bowel,116,Good,37,Yes,No,20 to 49,Yes,Yes,Yes,Yes,Yes,Moderate,5 Hours,Yes,Absent,Mild,No,Yes,Very Poor
+Poor,Large Bowel,103,Good,38,No,No,None,Yes,No,No,No,No,Severe,1 - 4 Hours,Yes,Present,Severe,No,No,Very Well
+Slightly below par,Both/Mixed,120,Poor,38,No,Yes,5 to 9,Yes,No,No,No,Yes,Mild,5 Hours,No,Questionable,None,Yes,Yes,Very Poor
+Generally Well,Small Bowel,107,Fair,38,No,Yes,10 to 19,Yes,Yes,No,Yes,Yes,Moderate,1 - 4 Hours,No,Questionable,Mild,Yes,Yes,Fair to Good
+Terrible,Both/Mixed,80,Good,36,No,No,5 to 9,Yes,Yes,No,No,Yes,Severe,5 Hours,Yes,Absent,Moderate,No,Yes,Very Poor
+Poor,Large Bowel,101,Poor,36,No,No,20 to 49,No,No,No,Yes,No,Moderate,5 Hours,Yes,Questionable,Mild,Yes,No,Very Well
+Terrible,Large Bowel,110,Poor,37,No,No,5 to 9,Yes,No,No,No,Yes,Mild,5 Hours,Yes,Questionable,Mild,Yes,Yes,Fair to Good
+Generally Well,Small Bowel,83,Fair,38,No,No,None,Yes,No,No,Yes,Yes,Severe,5 Hours,No,Present,None,Yes,Yes,Fair to Good
+Terrible,Small Bowel,114,Poor,36,No,No,1 to 4,Yes,Yes,No,No,No,Severe,1 - 4 Hours,No,Absent,Severe,No,No,Poor
+Generally Well,Both/Mixed,90,Poor,37,Yes,No,10 to 19,Yes,Yes,Yes,No,Yes,None,5 Hours,No,Questionable,Mild,Yes,Yes,Fair to Good
+Slightly below par,Both/Mixed,119,Good,38,No,No,5 to 9,No,No,No,Yes,No,None,5 Hours,No,Absent,Severe,Yes,No,Fair to Good
+Slightly below par,Large Bowel,97,Poor,37,Yes,Yes,20 to 49,Yes,Yes,No,No,No,Mild,1 - 4 Hours,Yes,Present,Mild,Yes,Yes,Poor
+Slightly below par,Small Bowel,108,Good,38,Yes,No,20 to 49,No,Yes,Yes,No,No,Mild,< 1 Hour,Yes,Present,Mild,No,No,Poor
+Slightly below par,Large Bowel,109,Poor,36,Yes,Yes,None,No,Yes,No,Yes,Yes,None,< 1 Hour,No,Questionable,Moderate,No,No,Very Poor
+Slightly below par,Both/Mixed,87,Good,36,Yes,No,1 to 4,Yes,No,No,No,No,Moderate,< 1 Hour,Yes,Present,None,No,Yes,Fair to Good
+Generally Well,Large Bowel,105,Good,37,Yes,No,20 to 49,No,Yes,No,Yes,No,Mild,1 - 4 Hours,Yes,Questionable,None,No,Yes,Poor
+Generally Well,Small Bowel,97,Fair,36,No,No,5 to 9,No,Yes,Yes,Yes,Yes,None,1 - 4 Hours,No,Present,None,Yes,Yes,Very Well
+Poor,Large Bowel,95,Poor,36,No,No,None,No,No,Yes,No,No,Moderate,5 Hours,No,Present,None,No,Yes,Poor
+Poor,Large Bowel,102,Fair,38,No,No,1 to 4,No,No,No,No,No,Moderate,1 - 4 Hours,Yes,Questionable,Moderate,No,Yes,Poor
+Generally Well,Small Bowel,113,Fair,37,Yes,No,10 to 19,No,Yes,Yes,No,No,None,5 Hours,Yes,Absent,Moderate,No,Yes,Very Well
+Generally Well,Small Bowel,117,Poor,36,Yes,No,1 to 4,No,Yes,No,No,No,Mild,< 1 Hour,Yes,Present,Severe,No,Yes,Fair to Good
+Generally Well,Small Bowel,83,Poor,36,No,Yes,1 to 4,No,No,Yes,Yes,No,None,< 1 Hour,Yes,Present,Moderate,Yes,Yes,Very Poor
+Generally Well,Large Bowel,80,Poor,37,No,Yes,10 to 19,No,Yes,Yes,No,No,Mild,1 - 4 Hours,No,Absent,Severe,Yes,Yes,Very Poor
+Generally Well,Small Bowel,89,Fair,36,Yes,No,5 to 9,No,No,No,Yes,Yes,Mild,1 - 4 Hours,No,Questionable,Moderate,Yes,No,Very Well
+Terrible,Small Bowel,116,Fair,36,No,Yes,1 to 4,Yes,Yes,Yes,No,No,Moderate,5 Hours,Yes,Present,None,Yes,No,Very Well
+Very Poor,Both/Mixed,83,Fair,37,Yes,No,10 to 19,Yes,No,Yes,No,No,None,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Very Poor
+Generally Well,Large Bowel,119,Fair,38,No,No,10 to 19,Yes,No,Yes,Yes,Yes,Mild,< 1 Hour,Yes,Absent,None,No,Yes,Fair to Good
+Very Poor,Small Bowel,108,Good,36,No,Yes,None,No,Yes,Yes,No,No,Mild,1 - 4 Hours,No,Present,None,No,No,Fair to Good
+Terrible,Both/Mixed,119,Fair,38,Yes,No,20 to 49,No,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,Yes,Questionable,Severe,Yes,No,Very Well
+Slightly below par,Small Bowel,117,Good,38,No,Yes,20 to 49,Yes,No,No,No,No,Moderate,1 - 4 Hours,Yes,Questionable,Moderate,No,Yes,Very Poor
+Terrible,Large Bowel,102,Poor,37,No,Yes,None,No,Yes,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Questionable,Severe,Yes,Yes,Very Poor
+Slightly below par,Large Bowel,111,Poor,36,No,No,20 to 49,Yes,No,No,Yes,Yes,Moderate,5 Hours,Yes,Questionable,Moderate,No,Yes,Poor
+Terrible,Small Bowel,80,Fair,38,Yes,No,None,No,No,Yes,No,No,Mild,1 - 4 Hours,Yes,Questionable,Mild,Yes,Yes,Very Well
+Very Poor,Both/Mixed,100,Poor,37,Yes,Yes,10 to 19,Yes,Yes,Yes,Yes,No,Moderate,5 Hours,No,Present,Severe,Yes,Yes,Very Poor
+Terrible,Large Bowel,92,Poor,36,No,No,None,Yes,Yes,Yes,Yes,Yes,Moderate,1 - 4 Hours,Yes,Absent,Moderate,Yes,Yes,Fair to Good
+Terrible,Large Bowel,115,Good,36,No,Yes,1 to 4,No,No,Yes,Yes,No,Moderate,5 Hours,Yes,Present,Moderate,No,Yes,Very Well
+Very Poor,Both/Mixed,108,Good,36,No,Yes,None,No,Yes,Yes,Yes,No,Severe,5 Hours,Yes,Questionable,None,No,Yes,Poor
+Slightly below par,Small Bowel,90,Good,37,No,No,10 to 19,Yes,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Questionable,Severe,Yes,Yes,Very Poor
+Terrible,Small Bowel,106,Good,37,Yes,No,10 to 19,No,Yes,No,No,No,None,1 - 4 Hours,Yes,Absent,Severe,No,Yes,Very Well
+Terrible,Small Bowel,88,Good,36,No,Yes,1 to 4,Yes,No,No,Yes,Yes,None,1 - 4 Hours,No,Absent,Moderate,No,Yes,Very Poor
+Very Poor,Both/Mixed,116,Fair,37,No,Yes,1 to 4,No,No,No,No,No,Moderate,1 - 4 Hours,No,Questionable,Moderate,Yes,Yes,Poor
+Generally Well,Both/Mixed,101,Good,38,No,Yes,1 to 4,Yes,Yes,Yes,Yes,Yes,Mild,< 1 Hour,Yes,Absent,Moderate,Yes,No,Very Well
+Very Poor,Small Bowel,86,Fair,37,Yes,Yes,10 to 19,Yes,Yes,Yes,No,Yes,None,5 Hours,Yes,Present,None,No,No,Very Well
+Terrible,Both/Mixed,99,Good,37,Yes,No,20 to 49,No,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,No,Present,Moderate,No,Yes,Poor
+Slightly below par,Both/Mixed,87,Good,38,No,No,10 to 19,No,No,Yes,No,No,Moderate,5 Hours,No,Present,Moderate,No,Yes,Very Well
+Slightly below par,Small Bowel,107,Poor,36,Yes,No,20 to 49,Yes,No,Yes,Yes,Yes,Mild,< 1 Hour,No,Present,None,Yes,Yes,Fair to Good
+Terrible,Large Bowel,108,Good,38,No,No,None,Yes,Yes,Yes,No,Yes,Mild,1 - 4 Hours,No,Present,Mild,No,Yes,Very Poor
+Poor,Small Bowel,115,Fair,38,No,No,20 to 49,Yes,No,Yes,No,Yes,Moderate,5 Hours,No,Absent,Mild,No,No,Very Well
+Generally Well,Small Bowel,103,Poor,37,Yes,Yes,10 to 19,Yes,Yes,No,No,No,Severe,< 1 Hour,No,Absent,None,No,No,Very Well
+Slightly below par,Large Bowel,83,Fair,38,Yes,No,None,No,Yes,No,Yes,No,Severe,< 1 Hour,Yes,Absent,Moderate,No,No,Poor
+Very Poor,Both/Mixed,83,Good,38,Yes,Yes,10 to 19,No,No,No,No,No,None,5 Hours,Yes,Absent,Moderate,Yes,Yes,Very Poor
+Generally Well,Both/Mixed,92,Good,37,Yes,No,None,Yes,Yes,Yes,Yes,No,Severe,1 - 4 Hours,No,Absent,Moderate,No,No,Very Well
+Poor,Small Bowel,93,Fair,37,Yes,No,20 to 49,Yes,No,No,No,Yes,Severe,1 - 4 Hours,No,Questionable,None,Yes,No,Fair to Good
+Slightly below par,Both/Mixed,113,Poor,37,Yes,Yes,None,Yes,No,Yes,No,Yes,Severe,< 1 Hour,Yes,Present,None,No,Yes,Very Poor
+Slightly below par,Large Bowel,99,Poor,38,Yes,Yes,1 to 4,Yes,No,Yes,No,No,Moderate,5 Hours,Yes,Questionable,Severe,No,No,Very Well
+Generally Well,Both/Mixed,81,Good,38,No,No,1 to 4,Yes,Yes,No,Yes,Yes,Moderate,5 Hours,No,Questionable,Mild,No,Yes,Very Poor
+Terrible,Small Bowel,95,Fair,38,No,Yes,10 to 19,No,No,Yes,No,No,Moderate,< 1 Hour,No,Present,None,No,Yes,Very Poor
+Very Poor,Small Bowel,80,Good,38,No,No,10 to 19,Yes,Yes,No,Yes,Yes,None,5 Hours,No,Absent,Mild,Yes,No,Poor
+Very Poor,Small Bowel,120,Poor,36,No,Yes,1 to 4,Yes,No,Yes,Yes,No,Mild,< 1 Hour,No,Questionable,Severe,No,Yes,Fair to Good
+Generally Well,Small Bowel,101,Poor,38,No,Yes,None,No,Yes,No,Yes,Yes,Moderate,1 - 4 Hours,No,Present,None,Yes,Yes,Poor
+Poor,Small Bowel,94,Good,38,Yes,Yes,10 to 19,Yes,Yes,No,No,No,Moderate,5 Hours,No,Present,None,Yes,Yes,Very Well
+Very Poor,Both/Mixed,110,Good,38,Yes,Yes,1 to 4,No,Yes,Yes,Yes,No,Severe,5 Hours,No,Absent,None,No,Yes,Very Poor
+Slightly below par,Large Bowel,116,Good,37,No,No,1 to 4,Yes,Yes,Yes,No,Yes,Mild,< 1 Hour,No,Present,Severe,No,Yes,Poor
+Generally Well,Large Bowel,113,Poor,38,No,Yes,1 to 4,Yes,Yes,No,No,Yes,None,1 - 4 Hours,Yes,Questionable,Severe,No,No,Fair to Good
+Poor,Large Bowel,99,Fair,36,Yes,No,None,Yes,Yes,Yes,Yes,Yes,Severe,< 1 Hour,Yes,Questionable,None,Yes,No,Very Well
+Slightly below par,Small Bowel,115,Fair,38,No,No,10 to 19,No,Yes,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Absent,Moderate,No,Yes,Very Well
+Terrible,Large Bowel,109,Fair,37,Yes,No,None,No,Yes,Yes,Yes,No,None,5 Hours,No,Questionable,Moderate,No,No,Very Poor
+Slightly below par,Both/Mixed,84,Good,36,No,No,1 to 4,Yes,No,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Present,Mild,Yes,No,Poor
+Generally Well,Both/Mixed,83,Good,36,No,Yes,None,No,No,No,Yes,Yes,Mild,1 - 4 Hours,Yes,Present,Severe,No,No,Fair to Good
+Poor,Both/Mixed,108,Fair,38,No,Yes,1 to 4,Yes,No,Yes,Yes,Yes,Severe,< 1 Hour,No,Present,Moderate,No,Yes,Very Well
+Generally Well,Both/Mixed,108,Fair,38,No,No,10 to 19,Yes,No,No,No,No,Moderate,5 Hours,Yes,Present,Severe,No,Yes,Fair to Good
+Terrible,Large Bowel,119,Fair,38,Yes,No,5 to 9,Yes,No,Yes,Yes,No,Mild,1 - 4 Hours,No,Absent,None,Yes,No,Very Well
+Slightly below par,Large Bowel,95,Poor,37,No,No,10 to 19,Yes,No,Yes,No,Yes,None,5 Hours,Yes,Absent,None,No,No,Very Well
+Terrible,Large Bowel,104,Poor,37,No,Yes,1 to 4,No,Yes,Yes,No,Yes,Severe,1 - 4 Hours,Yes,Absent,Severe,Yes,No,Very Poor
+Poor,Large Bowel,86,Fair,38,No,No,10 to 19,Yes,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,No,Present,Mild,Yes,Yes,Very Poor
+Slightly below par,Both/Mixed,103,Good,37,No,Yes,None,No,No,No,Yes,No,None,1 - 4 Hours,Yes,Absent,None,Yes,Yes,Poor
+Poor,Small Bowel,87,Fair,38,No,No,5 to 9,Yes,Yes,Yes,Yes,Yes,Severe,5 Hours,Yes,Absent,None,No,No,Fair to Good
+Very Poor,Small Bowel,108,Fair,38,Yes,No,20 to 49,Yes,No,No,Yes,Yes,None,5 Hours,Yes,Questionable,None,Yes,No,Poor
+Terrible,Both/Mixed,87,Fair,36,Yes,No,1 to 4,No,Yes,No,No,Yes,Mild,1 - 4 Hours,No,Questionable,Moderate,Yes,Yes,Very Well
+Poor,Small Bowel,91,Good,36,Yes,No,5 to 9,No,No,No,Yes,Yes,None,< 1 Hour,No,Absent,None,Yes,Yes,Very Well
+Generally Well,Small Bowel,84,Poor,38,Yes,No,10 to 19,No,No,No,No,No,None,5 Hours,Yes,Present,Moderate,Yes,No,Fair to Good
+Terrible,Both/Mixed,85,Good,38,Yes,Yes,5 to 9,No,Yes,Yes,No,Yes,None,5 Hours,Yes,Questionable,None,Yes,No,Very Poor
+Very Poor,Both/Mixed,102,Fair,37,Yes,No,5 to 9,Yes,Yes,No,Yes,Yes,Mild,5 Hours,Yes,Present,Mild,No,No,Fair to Good
+Slightly below par,Large Bowel,110,Poor,38,Yes,Yes,10 to 19,Yes,No,Yes,No,Yes,Moderate,5 Hours,Yes,Present,Mild,Yes,No,Very Poor
+Very Poor,Small Bowel,94,Good,38,Yes,Yes,20 to 49,No,Yes,Yes,Yes,No,None,5 Hours,No,Present,None,No,Yes,Poor
+Generally Well,Both/Mixed,120,Good,37,Yes,No,1 to 4,No,No,No,No,Yes,Moderate,5 Hours,No,Absent,Severe,No,No,Very Poor
+Very Poor,Large Bowel,109,Poor,36,Yes,Yes,1 to 4,Yes,No,Yes,No,No,Severe,5 Hours,Yes,Present,Severe,No,No,Poor
+Very Poor,Large Bowel,99,Poor,38,No,No,10 to 19,No,Yes,No,Yes,Yes,None,5 Hours,No,Questionable,Moderate,Yes,Yes,Very Well
+Terrible,Both/Mixed,92,Fair,38,Yes,No,1 to 4,No,Yes,No,No,Yes,Mild,1 - 4 Hours,No,Questionable,Moderate,No,No,Very Well
+Terrible,Large Bowel,107,Poor,38,No,Yes,None,No,No,No,Yes,No,Severe,< 1 Hour,Yes,Absent,Severe,Yes,Yes,Poor
+Slightly below par,Both/Mixed,90,Poor,38,Yes,Yes,5 to 9,Yes,Yes,No,No,Yes,Mild,< 1 Hour,Yes,Present,Severe,Yes,No,Very Well
+Very Poor,Small Bowel,102,Good,38,No,No,10 to 19,Yes,No,No,Yes,No,Mild,5 Hours,Yes,Absent,Severe,Yes,Yes,Very Well
+Terrible,Large Bowel,92,Fair,38,No,Yes,5 to 9,Yes,No,No,No,Yes,Severe,< 1 Hour,Yes,Absent,Moderate,Yes,Yes,Fair to Good
+Very Poor,Both/Mixed,120,Fair,38,Yes,No,20 to 49,No,No,No,Yes,No,None,1 - 4 Hours,Yes,Absent,None,No,Yes,Poor
+Generally Well,Small Bowel,88,Fair,37,Yes,No,None,No,Yes,Yes,Yes,No,Mild,1 - 4 Hours,Yes,Absent,Mild,No,No,Fair to Good
+Poor,Large Bowel,98,Good,38,No,No,20 to 49,Yes,No,Yes,No,Yes,None,< 1 Hour,Yes,Present,Mild,Yes,Yes,Fair to Good
+Poor,Both/Mixed,81,Poor,36,No,Yes,20 to 49,Yes,Yes,No,Yes,No,Moderate,1 - 4 Hours,Yes,Present,Severe,No,No,Very Poor
+Poor,Both/Mixed,91,Fair,37,No,No,None,No,Yes,No,Yes,Yes,Mild,1 - 4 Hours,No,Absent,Moderate,No,Yes,Poor
+Very Poor,Small Bowel,119,Good,37,No,Yes,1 to 4,No,Yes,Yes,Yes,No,Mild,1 - 4 Hours,Yes,Absent,Mild,No,No,Poor
+Poor,Large Bowel,104,Fair,38,No,Yes,20 to 49,Yes,No,No,Yes,No,Moderate,1 - 4 Hours,No,Questionable,Mild,No,Yes,Poor
+Poor,Large Bowel,115,Poor,38,Yes,No,None,Yes,No,Yes,Yes,No,None,5 Hours,Yes,Absent,None,No,No,Poor
+Very Poor,Large Bowel,107,Good,38,No,No,5 to 9,No,Yes,No,Yes,Yes,Mild,1 - 4 Hours,No,Present,Mild,No,No,Very Poor
+Generally Well,Large Bowel,92,Fair,36,Yes,Yes,10 to 19,No,No,No,No,Yes,Mild,< 1 Hour,Yes,Absent,Moderate,No,No,Very Well
+Slightly below par,Both/Mixed,87,Fair,37,Yes,Yes,10 to 19,No,Yes,Yes,Yes,No,None,< 1 Hour,Yes,Questionable,Severe,Yes,No,Very Well
+Very Poor,Both/Mixed,84,Poor,36,Yes,Yes,10 to 19,Yes,No,Yes,Yes,No,Moderate,< 1 Hour,No,Questionable,Moderate,Yes,Yes,Fair to Good
+Terrible,Both/Mixed,120,Poor,38,No,No,5 to 9,No,No,No,Yes,No,Mild,5 Hours,Yes,Present,None,Yes,Yes,Very Well
+Generally Well,Large Bowel,100,Fair,37,Yes,No,1 to 4,No,No,No,No,Yes,Severe,1 - 4 Hours,No,Present,Mild,Yes,No,Poor
+Poor,Small Bowel,90,Good,38,Yes,Yes,5 to 9,Yes,No,No,No,Yes,Moderate,1 - 4 Hours,No,Absent,Severe,No,No,Very Poor
+Slightly below par,Both/Mixed,91,Good,36,No,No,None,No,No,Yes,Yes,Yes,Moderate,< 1 Hour,No,Questionable,Severe,No,No,Fair to Good
+Very Poor,Small Bowel,113,Poor,37,No,Yes,10 to 19,No,No,Yes,No,No,Severe,< 1 Hour,Yes,Absent,None,Yes,Yes,Poor
+Very Poor,Small Bowel,87,Fair,36,Yes,Yes,20 to 49,No,Yes,Yes,No,No,None,1 - 4 Hours,Yes,Absent,None,No,No,Fair to Good
+Slightly below par,Large Bowel,96,Poor,38,Yes,Yes,20 to 49,No,Yes,Yes,Yes,No,None,5 Hours,Yes,Absent,Moderate,Yes,No,Fair to Good
+Terrible,Large Bowel,98,Poor,36,No,No,None,No,No,No,No,Yes,Moderate,1 - 4 Hours,Yes,Questionable,Mild,No,No,Poor
+Very Poor,Both/Mixed,101,Fair,37,No,Yes,None,No,Yes,No,No,Yes,Mild,1 - 4 Hours,No,Absent,Severe,No,Yes,Very Poor
+Poor,Large Bowel,108,Poor,37,No,Yes,10 to 19,Yes,No,No,No,No,Moderate,1 - 4 Hours,Yes,Questionable,Severe,Yes,Yes,Poor
+Very Poor,Both/Mixed,87,Fair,36,Yes,No,None,Yes,Yes,Yes,Yes,No,Mild,< 1 Hour,No,Questionable,None,Yes,No,Very Poor
+Terrible,Both/Mixed,95,Good,38,No,Yes,1 to 4,Yes,No,Yes,Yes,No,Severe,5 Hours,Yes,Absent,Mild,No,Yes,Very Poor
+Poor,Small Bowel,95,Fair,38,Yes,Yes,None,Yes,No,No,No,Yes,Moderate,5 Hours,No,Questionable,None,Yes,No,Very Poor
+Very Poor,Small Bowel,119,Fair,36,Yes,No,None,Yes,Yes,No,Yes,No,None,5 Hours,Yes,Questionable,Mild,Yes,No,Very Well
+Very Poor,Large Bowel,92,Good,38,Yes,Yes,20 to 49,No,No,Yes,Yes,Yes,None,< 1 Hour,Yes,Present,Mild,No,Yes,Fair to Good
+Slightly below par,Large Bowel,88,Poor,38,Yes,Yes,5 to 9,Yes,No,Yes,Yes,Yes,None,1 - 4 Hours,Yes,Present,Mild,No,Yes,Very Well
+Very Poor,Both/Mixed,110,Good,38,No,Yes,None,Yes,No,Yes,No,No,None,5 Hours,Yes,Present,Severe,No,No,Very Poor
+Generally Well,Large Bowel,86,Poor,37,Yes,Yes,1 to 4,Yes,No,Yes,Yes,Yes,Moderate,< 1 Hour,No,Questionable,Moderate,No,Yes,Fair to Good
+Poor,Both/Mixed,82,Good,38,Yes,Yes,1 to 4,Yes,No,Yes,Yes,No,Moderate,< 1 Hour,No,Absent,Mild,Yes,No,Very Well
+Generally Well,Both/Mixed,103,Fair,37,Yes,No,20 to 49,Yes,Yes,No,No,No,Mild,1 - 4 Hours,Yes,Absent,None,No,Yes,Poor
+Slightly below par,Large Bowel,98,Good,36,No,No,5 to 9,No,No,Yes,Yes,No,Moderate,< 1 Hour,Yes,Absent,None,Yes,No,Very Well
+Slightly below par,Small Bowel,99,Good,37,No,Yes,None,No,No,No,Yes,Yes,Moderate,5 Hours,Yes,Questionable,None,Yes,No,Very Poor
+Poor,Both/Mixed,89,Poor,38,Yes,Yes,20 to 49,Yes,No,No,No,Yes,Mild,1 - 4 Hours,No,Questionable,Severe,Yes,No,Very Well
+Terrible,Both/Mixed,95,Poor,36,Yes,Yes,None,Yes,No,No,Yes,No,None,1 - 4 Hours,Yes,Present,None,No,Yes,Poor
+Poor,Small Bowel,113,Fair,36,Yes,Yes,20 to 49,No,No,Yes,Yes,No,Severe,< 1 Hour,No,Absent,Severe,Yes,No,Very Poor
+Very Poor,Both/Mixed,94,Fair,38,Yes,No,5 to 9,Yes,Yes,No,Yes,Yes,Mild,1 - 4 Hours,No,Absent,Severe,No,Yes,Very Poor
+Terrible,Large Bowel,109,Fair,38,Yes,Yes,20 to 49,Yes,No,Yes,Yes,No,Severe,< 1 Hour,No,Questionable,None,Yes,Yes,Very Well
+Very Poor,Both/Mixed,81,Good,38,Yes,No,10 to 19,Yes,Yes,No,Yes,No,Mild,5 Hours,Yes,Absent,None,Yes,No,Very Well
+Generally Well,Large Bowel,108,Good,37,Yes,No,None,Yes,No,No,No,No,Severe,5 Hours,Yes,Questionable,Severe,No,No,Very Poor
+Slightly below par,Both/Mixed,120,Good,36,No,Yes,None,Yes,No,No,No,Yes,Moderate,1 - 4 Hours,Yes,Absent,Severe,No,Yes,Fair to Good
+Poor,Both/Mixed,109,Good,36,Yes,No,1 to 4,No,No,No,Yes,No,None,< 1 Hour,No,Questionable,Moderate,No,Yes,Very Well
+Slightly below par,Small Bowel,105,Fair,36,No,Yes,1 to 4,No,No,No,Yes,No,None,5 Hours,No,Present,Mild,Yes,No,Very Poor
+Very Poor,Small Bowel,110,Fair,37,No,Yes,5 to 9,No,Yes,No,Yes,Yes,Severe,5 Hours,Yes,Present,Mild,Yes,Yes,Very Poor
+Generally Well,Large Bowel,92,Poor,36,No,Yes,None,No,No,Yes,No,No,Moderate,5 Hours,Yes,Absent,Moderate,No,No,Poor
+Slightly below par,Small Bowel,93,Good,38,Yes,No,10 to 19,No,No,Yes,No,Yes,Severe,1 - 4 Hours,No,Present,None,No,Yes,Very Well
+Slightly below par,Large Bowel,80,Good,38,Yes,Yes,None,Yes,No,Yes,No,Yes,Moderate,1 - 4 Hours,Yes,Absent,Mild,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,88,Good,38,No,Yes,10 to 19,No,Yes,No,No,Yes,None,5 Hours,No,Absent,Moderate,No,Yes,Very Poor
+Terrible,Small Bowel,83,Good,38,No,No,1 to 4,No,Yes,No,Yes,No,Severe,5 Hours,No,Present,None,No,Yes,Very Well
+Slightly below par,Large Bowel,119,Poor,36,Yes,Yes,1 to 4,No,Yes,No,Yes,No,Severe,< 1 Hour,No,Absent,Severe,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,116,Poor,37,Yes,No,20 to 49,Yes,No,Yes,No,No,Severe,1 - 4 Hours,Yes,Present,Mild,Yes,Yes,Very Poor
+Generally Well,Both/Mixed,80,Good,38,No,No,1 to 4,No,No,No,No,Yes,Mild,5 Hours,No,Present,Mild,Yes,No,Poor
+Terrible,Both/Mixed,109,Poor,38,Yes,No,None,Yes,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Absent,Moderate,Yes,No,Poor
+Slightly below par,Large Bowel,119,Poor,38,No,No,20 to 49,Yes,No,Yes,No,No,Moderate,< 1 Hour,Yes,Absent,Moderate,No,No,Fair to Good
+Generally Well,Small Bowel,82,Poor,38,Yes,No,None,No,Yes,Yes,Yes,No,None,5 Hours,Yes,Absent,Severe,No,Yes,Poor
+Poor,Large Bowel,114,Good,36,Yes,No,None,Yes,No,No,No,No,Severe,< 1 Hour,Yes,Absent,None,Yes,No,Fair to Good
+Poor,Large Bowel,100,Poor,38,Yes,No,5 to 9,Yes,No,No,No,Yes,None,< 1 Hour,Yes,Present,None,No,Yes,Very Well
+Terrible,Small Bowel,104,Fair,37,No,No,10 to 19,Yes,No,No,No,No,Mild,< 1 Hour,No,Present,Moderate,Yes,No,Fair to Good
+Poor,Both/Mixed,114,Good,37,No,No,1 to 4,No,No,No,No,Yes,Severe,5 Hours,No,Absent,None,Yes,Yes,Very Poor
+Terrible,Both/Mixed,106,Fair,36,No,Yes,1 to 4,Yes,Yes,No,No,Yes,Moderate,1 - 4 Hours,Yes,Questionable,None,Yes,Yes,Fair to Good
+Slightly below par,Small Bowel,114,Good,36,No,Yes,None,Yes,Yes,No,No,Yes,None,< 1 Hour,Yes,Absent,Severe,Yes,Yes,Very Well
+Terrible,Both/Mixed,111,Good,37,No,Yes,5 to 9,No,No,No,Yes,Yes,Moderate,1 - 4 Hours,No,Questionable,Mild,No,Yes,Poor
+Slightly below par,Large Bowel,90,Good,36,No,No,1 to 4,Yes,Yes,Yes,Yes,Yes,Moderate,1 - 4 Hours,No,Questionable,None,No,Yes,Fair to Good
+Generally Well,Large Bowel,112,Fair,37,Yes,No,10 to 19,No,No,Yes,Yes,No,Mild,1 - 4 Hours,Yes,Present,None,Yes,Yes,Poor
+Poor,Small Bowel,87,Poor,36,Yes,No,None,Yes,No,No,Yes,No,Moderate,< 1 Hour,No,Present,None,Yes,Yes,Very Poor
+Very Poor,Large Bowel,100,Good,38,Yes,No,20 to 49,No,No,No,Yes,Yes,Mild,5 Hours,No,Absent,Mild,Yes,Yes,Very Well
+Poor,Large Bowel,87,Poor,38,Yes,Yes,None,Yes,No,Yes,Yes,Yes,Moderate,< 1 Hour,Yes,Questionable,Mild,No,No,Fair to Good
+Very Poor,Large Bowel,105,Good,38,Yes,Yes,None,No,Yes,Yes,Yes,No,Moderate,5 Hours,No,Present,Moderate,No,No,Fair to Good
+Slightly below par,Small Bowel,82,Poor,37,Yes,Yes,None,No,No,No,No,Yes,Mild,< 1 Hour,Yes,Absent,Moderate,Yes,Yes,Poor
+Generally Well,Small Bowel,112,Fair,38,Yes,No,1 to 4,Yes,Yes,No,Yes,No,None,5 Hours,Yes,Present,Severe,Yes,Yes,Poor
+Terrible,Small Bowel,100,Good,36,No,Yes,5 to 9,No,No,No,No,Yes,Mild,5 Hours,Yes,Questionable,Mild,Yes,No,Poor
+Terrible,Large Bowel,112,Poor,36,No,Yes,5 to 9,No,Yes,No,No,No,Moderate,5 Hours,No,Absent,None,Yes,No,Very Poor
+Terrible,Large Bowel,89,Poor,37,Yes,No,10 to 19,No,Yes,Yes,Yes,No,None,5 Hours,Yes,Present,Moderate,Yes,Yes,Very Poor
+Very Poor,Large Bowel,98,Fair,36,Yes,No,1 to 4,Yes,Yes,Yes,Yes,No,None,5 Hours,No,Questionable,Mild,Yes,No,Fair to Good
+Poor,Small Bowel,86,Good,38,Yes,Yes,None,No,No,No,No,No,Mild,5 Hours,Yes,Questionable,None,Yes,Yes,Fair to Good
+Terrible,Large Bowel,97,Good,36,Yes,No,1 to 4,Yes,No,No,No,No,Mild,5 Hours,No,Questionable,Severe,No,Yes,Very Poor
+Terrible,Small Bowel,112,Fair,38,Yes,No,20 to 49,No,No,No,Yes,No,Severe,5 Hours,Yes,Absent,Mild,No,No,Poor
+Poor,Small Bowel,108,Good,36,No,No,None,Yes,No,Yes,Yes,Yes,Moderate,5 Hours,No,Questionable,Mild,Yes,Yes,Very Well
+Poor,Both/Mixed,106,Poor,37,No,No,10 to 19,Yes,Yes,Yes,No,No,Moderate,5 Hours,Yes,Present,None,Yes,No,Very Poor
+Slightly below par,Large Bowel,114,Poor,36,No,Yes,10 to 19,No,No,No,No,Yes,Moderate,5 Hours,No,Present,Mild,No,Yes,Fair to Good
+Generally Well,Small Bowel,95,Good,38,No,No,10 to 19,No,No,Yes,Yes,Yes,Mild,1 - 4 Hours,No,Questionable,Moderate,No,No,Very Well
+Poor,Large Bowel,119,Fair,36,No,Yes,5 to 9,No,No,No,Yes,No,Severe,1 - 4 Hours,Yes,Absent,Mild,Yes,Yes,Very Poor
+Terrible,Small Bowel,80,Poor,37,Yes,Yes,10 to 19,Yes,No,Yes,No,Yes,None,1 - 4 Hours,No,Present,None,Yes,Yes,Poor
+Very Poor,Both/Mixed,118,Good,36,Yes,Yes,None,Yes,No,No,No,No,Severe,1 - 4 Hours,Yes,Absent,Severe,Yes,No,Very Poor
+Slightly below par,Both/Mixed,100,Fair,36,Yes,Yes,10 to 19,Yes,No,Yes,No,Yes,None,< 1 Hour,No,Absent,Moderate,No,No,Poor
+Poor,Large Bowel,102,Fair,37,No,No,5 to 9,No,Yes,Yes,No,Yes,Mild,< 1 Hour,Yes,Absent,Mild,No,Yes,Fair to Good
+Slightly below par,Small Bowel,95,Poor,38,No,No,None,No,No,No,No,No,None,< 1 Hour,No,Present,Moderate,Yes,No,Poor
+Slightly below par,Both/Mixed,99,Good,38,No,No,1 to 4,No,Yes,Yes,No,No,Severe,< 1 Hour,Yes,Absent,None,No,No,Very Poor
+Slightly below par,Small Bowel,92,Good,37,Yes,No,5 to 9,Yes,No,No,Yes,No,None,5 Hours,No,Absent,Moderate,No,Yes,Very Well
+Poor,Both/Mixed,83,Fair,38,No,No,None,No,Yes,Yes,Yes,Yes,None,< 1 Hour,No,Present,Moderate,No,Yes,Very Poor
+Poor,Small Bowel,87,Good,37,Yes,Yes,None,Yes,No,Yes,No,Yes,None,1 - 4 Hours,Yes,Present,Moderate,Yes,Yes,Fair to Good
+Slightly below par,Both/Mixed,111,Poor,38,No,Yes,1 to 4,No,Yes,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Absent,None,Yes,No,Fair to Good
+Generally Well,Small Bowel,115,Fair,36,No,Yes,1 to 4,Yes,Yes,Yes,No,No,Moderate,< 1 Hour,Yes,Absent,Mild,No,Yes,Very Well
+Poor,Small Bowel,112,Fair,38,No,Yes,10 to 19,No,No,Yes,Yes,No,Moderate,< 1 Hour,Yes,Absent,Mild,No,No,Fair to Good
+Terrible,Both/Mixed,113,Good,37,No,Yes,5 to 9,Yes,Yes,No,Yes,Yes,None,< 1 Hour,No,Absent,Moderate,No,Yes,Poor
+Terrible,Both/Mixed,96,Fair,37,Yes,Yes,5 to 9,No,No,No,Yes,No,None,5 Hours,Yes,Absent,Moderate,Yes,No,Poor
+Poor,Small Bowel,99,Good,37,No,Yes,20 to 49,No,Yes,Yes,Yes,No,Mild,< 1 Hour,No,Questionable,Severe,No,Yes,Fair to Good
+Slightly below par,Large Bowel,109,Fair,38,No,No,5 to 9,Yes,Yes,Yes,Yes,Yes,Moderate,< 1 Hour,No,Present,Mild,No,Yes,Poor
+Generally Well,Large Bowel,91,Good,36,No,Yes,1 to 4,No,Yes,Yes,Yes,No,Mild,< 1 Hour,Yes,Absent,None,No,Yes,Very Poor
+Slightly below par,Small Bowel,92,Good,37,No,No,1 to 4,No,Yes,No,Yes,Yes,None,5 Hours,Yes,Present,Severe,Yes,No,Very Well
+Very Poor,Both/Mixed,117,Poor,37,No,Yes,20 to 49,Yes,No,No,No,No,Mild,< 1 Hour,No,Absent,Moderate,Yes,Yes,Very Well
+Slightly below par,Small Bowel,86,Poor,37,Yes,No,5 to 9,Yes,No,No,Yes,No,Moderate,1 - 4 Hours,Yes,Absent,None,No,Yes,Very Well
+Poor,Large Bowel,94,Poor,37,No,No,20 to 49,No,No,No,Yes,Yes,Moderate,< 1 Hour,No,Questionable,Moderate,No,Yes,Fair to Good
+Generally Well,Large Bowel,108,Fair,36,No,Yes,None,Yes,Yes,Yes,No,Yes,None,1 - 4 Hours,No,Absent,Severe,No,Yes,Poor
+Generally Well,Small Bowel,90,Good,36,Yes,No,None,No,No,No,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,None,Yes,Yes,Very Well
+Terrible,Large Bowel,113,Good,37,Yes,No,None,Yes,Yes,Yes,No,No,Moderate,1 - 4 Hours,No,Present,Mild,No,No,Fair to Good
+Generally Well,Large Bowel,110,Poor,38,No,No,1 to 4,No,No,No,No,Yes,Severe,1 - 4 Hours,No,Questionable,Moderate,No,Yes,Very Poor
+Slightly below par,Both/Mixed,99,Fair,36,Yes,No,20 to 49,Yes,No,Yes,No,No,Mild,< 1 Hour,No,Present,Severe,Yes,Yes,Poor
+Very Poor,Both/Mixed,82,Poor,37,Yes,No,None,No,Yes,No,No,No,Severe,1 - 4 Hours,Yes,Questionable,Severe,Yes,Yes,Very Poor
+Poor,Both/Mixed,104,Poor,36,Yes,No,5 to 9,Yes,No,No,No,Yes,Severe,< 1 Hour,No,Absent,None,Yes,Yes,Very Poor
+Generally Well,Large Bowel,112,Fair,38,No,No,5 to 9,No,Yes,No,No,Yes,Moderate,< 1 Hour,Yes,Questionable,Severe,No,Yes,Very Well
+Terrible,Small Bowel,84,Good,37,Yes,Yes,10 to 19,Yes,No,No,No,Yes,Mild,< 1 Hour,No,Questionable,Mild,Yes,No,Very Poor
+Generally Well,Small Bowel,92,Poor,38,Yes,Yes,5 to 9,Yes,Yes,No,No,Yes,Mild,1 - 4 Hours,Yes,Present,Mild,No,No,Very Well
+Generally Well,Small Bowel,84,Good,38,Yes,Yes,20 to 49,Yes,Yes,No,Yes,No,Mild,5 Hours,No,Absent,None,Yes,No,Poor
+Terrible,Both/Mixed,109,Fair,37,Yes,No,5 to 9,No,Yes,No,Yes,Yes,None,5 Hours,No,Questionable,Severe,Yes,No,Very Poor
+Terrible,Large Bowel,93,Poor,36,No,No,10 to 19,No,No,No,No,Yes,Moderate,< 1 Hour,Yes,Absent,Mild,Yes,No,Fair to Good
+Terrible,Both/Mixed,90,Good,37,Yes,Yes,1 to 4,No,No,Yes,No,No,None,1 - 4 Hours,No,Present,Mild,No,Yes,Poor
+Slightly below par,Large Bowel,110,Poor,38,Yes,Yes,10 to 19,Yes,Yes,No,No,No,Moderate,< 1 Hour,No,Present,Moderate,Yes,No,Very Well
+Slightly below par,Small Bowel,105,Poor,38,No,Yes,1 to 4,Yes,No,No,Yes,No,Mild,< 1 Hour,No,Present,Mild,Yes,No,Poor
+Very Poor,Large Bowel,91,Good,36,No,Yes,5 to 9,No,Yes,No,No,Yes,Severe,< 1 Hour,Yes,Absent,None,No,Yes,Very Well
+Poor,Both/Mixed,105,Good,38,Yes,Yes,None,Yes,No,Yes,Yes,Yes,None,5 Hours,No,Present,Severe,No,No,Poor
+Slightly below par,Both/Mixed,104,Good,36,Yes,Yes,1 to 4,Yes,No,Yes,No,No,None,1 - 4 Hours,No,Absent,Severe,Yes,Yes,Poor
+Very Poor,Large Bowel,85,Poor,38,No,Yes,1 to 4,Yes,Yes,Yes,No,No,Mild,5 Hours,No,Absent,Mild,Yes,Yes,Very Well
+Generally Well,Small Bowel,96,Good,37,Yes,No,10 to 19,No,No,Yes,Yes,No,Mild,5 Hours,No,Questionable,Severe,Yes,No,Very Poor
+Terrible,Large Bowel,103,Poor,37,No,No,None,No,No,Yes,Yes,No,Moderate,1 - 4 Hours,No,Absent,Moderate,No,Yes,Very Poor
+Generally Well,Small Bowel,117,Good,36,Yes,Yes,1 to 4,Yes,No,No,Yes,Yes,Moderate,5 Hours,Yes,Present,Mild,Yes,No,Fair to Good
+Terrible,Both/Mixed,100,Poor,37,No,No,10 to 19,No,Yes,Yes,No,Yes,Severe,< 1 Hour,Yes,Present,None,Yes,No,Fair to Good
+Poor,Both/Mixed,100,Fair,38,Yes,No,10 to 19,Yes,No,No,Yes,No,None,< 1 Hour,No,Present,None,No,Yes,Very Poor
+Very Poor,Large Bowel,87,Good,36,No,No,1 to 4,Yes,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,No,Questionable,None,No,Yes,Very Well
+Poor,Small Bowel,112,Poor,37,No,Yes,10 to 19,No,No,Yes,Yes,No,Mild,< 1 Hour,No,Questionable,Moderate,Yes,No,Very Well
+Poor,Small Bowel,88,Good,37,Yes,Yes,1 to 4,No,No,Yes,Yes,Yes,Severe,1 - 4 Hours,Yes,Questionable,Severe,No,No,Fair to Good
+Terrible,Small Bowel,98,Fair,36,No,Yes,5 to 9,Yes,Yes,No,No,No,Moderate,1 - 4 Hours,Yes,Absent,None,No,No,Fair to Good
+Slightly below par,Large Bowel,89,Fair,38,No,No,20 to 49,Yes,No,No,Yes,Yes,Moderate,5 Hours,No,Questionable,Moderate,Yes,No,Poor
+Generally Well,Small Bowel,85,Fair,38,No,No,None,Yes,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Questionable,None,Yes,No,Very Well
+Slightly below par,Both/Mixed,97,Fair,36,Yes,Yes,20 to 49,Yes,Yes,Yes,No,No,Moderate,1 - 4 Hours,No,Present,Severe,No,No,Very Well
+Very Poor,Both/Mixed,106,Fair,38,No,Yes,10 to 19,Yes,No,Yes,No,No,Mild,5 Hours,Yes,Absent,Moderate,Yes,Yes,Very Poor
+Very Poor,Both/Mixed,114,Good,36,Yes,No,1 to 4,No,No,No,Yes,No,None,1 - 4 Hours,Yes,Questionable,None,Yes,No,Fair to Good
+Poor,Small Bowel,117,Fair,36,Yes,Yes,20 to 49,No,No,No,No,Yes,Severe,5 Hours,No,Present,Moderate,Yes,No,Very Poor
+Terrible,Large Bowel,92,Poor,38,Yes,Yes,1 to 4,Yes,Yes,No,No,Yes,None,< 1 Hour,No,Absent,Mild,No,No,Very Well
+Generally Well,Large Bowel,117,Good,37,No,No,5 to 9,Yes,No,No,Yes,Yes,Severe,5 Hours,No,Questionable,None,No,Yes,Very Poor
+Terrible,Small Bowel,84,Good,36,Yes,No,1 to 4,No,No,No,Yes,No,None,1 - 4 Hours,Yes,Present,None,No,No,Fair to Good
+Poor,Small Bowel,96,Good,38,No,Yes,5 to 9,Yes,No,Yes,No,Yes,None,< 1 Hour,Yes,Present,Mild,No,No,Very Poor
+Terrible,Large Bowel,88,Good,36,No,No,1 to 4,No,No,Yes,No,Yes,None,5 Hours,Yes,Questionable,Severe,No,No,Very Well
+Very Poor,Both/Mixed,89,Fair,38,No,No,None,Yes,No,Yes,No,Yes,None,5 Hours,No,Questionable,Mild,No,No,Poor
+Terrible,Both/Mixed,114,Good,36,No,No,10 to 19,Yes,No,Yes,No,Yes,Moderate,5 Hours,Yes,Questionable,Moderate,No,No,Very Poor
+Poor,Small Bowel,99,Fair,38,No,Yes,None,No,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Very Well
+Generally Well,Both/Mixed,109,Poor,37,Yes,No,10 to 19,No,Yes,No,Yes,Yes,None,1 - 4 Hours,Yes,Present,Severe,Yes,No,Fair to Good
+Terrible,Small Bowel,98,Fair,38,No,No,10 to 19,No,No,No,Yes,Yes,None,1 - 4 Hours,Yes,Absent,None,No,No,Fair to Good
+Terrible,Large Bowel,117,Poor,38,Yes,No,10 to 19,Yes,Yes,No,No,Yes,Moderate,< 1 Hour,Yes,Questionable,Moderate,No,Yes,Fair to Good
+Poor,Large Bowel,80,Poor,36,No,No,5 to 9,Yes,Yes,Yes,No,Yes,Mild,5 Hours,Yes,Absent,None,Yes,Yes,Very Well
+Generally Well,Both/Mixed,85,Poor,36,Yes,No,20 to 49,No,Yes,Yes,Yes,Yes,Severe,1 - 4 Hours,No,Absent,Mild,No,Yes,Fair to Good
+Slightly below par,Large Bowel,86,Fair,37,No,Yes,None,No,Yes,Yes,No,Yes,None,< 1 Hour,No,Absent,Mild,No,Yes,Fair to Good
+Very Poor,Both/Mixed,107,Poor,38,Yes,No,None,No,Yes,Yes,Yes,Yes,Severe,5 Hours,No,Questionable,Mild,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,84,Good,36,No,Yes,None,No,Yes,Yes,Yes,Yes,Severe,< 1 Hour,Yes,Present,Mild,No,Yes,Fair to Good
+Generally Well,Small Bowel,85,Poor,37,No,Yes,20 to 49,No,Yes,No,No,No,None,5 Hours,Yes,Absent,Mild,No,No,Very Well
+Slightly below par,Small Bowel,88,Fair,38,No,No,1 to 4,No,No,No,No,No,Mild,5 Hours,No,Questionable,Severe,Yes,No,Poor
+Very Poor,Both/Mixed,80,Fair,37,No,No,None,No,Yes,No,Yes,No,None,< 1 Hour,Yes,Questionable,Severe,Yes,No,Poor
+Poor,Small Bowel,102,Good,36,Yes,Yes,10 to 19,Yes,Yes,Yes,Yes,Yes,None,1 - 4 Hours,No,Present,Mild,No,Yes,Very Well
+Slightly below par,Large Bowel,114,Poor,36,Yes,Yes,10 to 19,Yes,Yes,Yes,No,Yes,Moderate,1 - 4 Hours,Yes,Present,Mild,Yes,Yes,Poor
+Generally Well,Both/Mixed,109,Fair,38,No,No,5 to 9,No,Yes,Yes,Yes,Yes,None,5 Hours,No,Absent,Mild,No,Yes,Poor
+Very Poor,Small Bowel,88,Fair,37,No,No,1 to 4,No,Yes,Yes,Yes,No,Moderate,5 Hours,Yes,Present,Severe,No,Yes,Fair to Good
+Generally Well,Both/Mixed,83,Fair,36,Yes,No,10 to 19,Yes,No,No,Yes,No,Mild,< 1 Hour,Yes,Absent,None,No,Yes,Very Poor
+Very Poor,Both/Mixed,88,Poor,38,Yes,Yes,20 to 49,Yes,Yes,Yes,No,Yes,None,5 Hours,No,Present,Mild,Yes,No,Very Well
+Terrible,Large Bowel,101,Good,38,Yes,Yes,1 to 4,Yes,No,Yes,Yes,Yes,Severe,< 1 Hour,Yes,Present,None,No,Yes,Very Well
+Poor,Small Bowel,95,Good,38,No,No,10 to 19,Yes,No,No,No,No,Mild,1 - 4 Hours,Yes,Present,Mild,No,Yes,Poor
+Generally Well,Small Bowel,90,Poor,38,Yes,No,5 to 9,Yes,No,Yes,No,Yes,None,5 Hours,Yes,Absent,Mild,No,No,Fair to Good
+Very Poor,Large Bowel,107,Poor,37,Yes,No,1 to 4,No,Yes,No,No,No,None,5 Hours,Yes,Present,None,Yes,No,Very Poor
+Terrible,Both/Mixed,100,Good,36,No,Yes,None,Yes,Yes,No,Yes,No,Severe,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Very Well
+Generally Well,Large Bowel,118,Fair,38,Yes,Yes,5 to 9,Yes,No,No,No,Yes,Mild,< 1 Hour,Yes,Absent,Severe,No,Yes,Very Well
+Very Poor,Large Bowel,116,Fair,37,Yes,Yes,20 to 49,Yes,No,Yes,No,Yes,Severe,5 Hours,Yes,Absent,Moderate,No,No,Very Poor
+Poor,Both/Mixed,87,Good,37,Yes,Yes,10 to 19,No,Yes,Yes,No,No,None,1 - 4 Hours,Yes,Absent,None,No,Yes,Very Well
+Slightly below par,Both/Mixed,82,Good,37,No,No,5 to 9,Yes,No,Yes,Yes,Yes,None,5 Hours,Yes,Absent,Moderate,Yes,No,Very Well
+Terrible,Large Bowel,82,Fair,36,Yes,Yes,5 to 9,No,No,No,No,Yes,None,1 - 4 Hours,Yes,Questionable,None,No,No,Very Well
+Terrible,Both/Mixed,97,Fair,37,No,Yes,1 to 4,Yes,Yes,No,No,No,Mild,< 1 Hour,Yes,Absent,Moderate,No,No,Very Poor
+Very Poor,Both/Mixed,102,Fair,38,No,Yes,20 to 49,Yes,Yes,Yes,No,Yes,Moderate,1 - 4 Hours,No,Questionable,Mild,No,Yes,Very Well
+Poor,Both/Mixed,85,Good,37,Yes,Yes,5 to 9,Yes,No,Yes,Yes,No,Mild,< 1 Hour,Yes,Present,Severe,Yes,No,Fair to Good
+Very Poor,Large Bowel,119,Poor,36,No,Yes,20 to 49,Yes,Yes,No,No,No,None,5 Hours,Yes,Present,Severe,Yes,No,Very Well
+Slightly below par,Both/Mixed,99,Fair,38,Yes,No,1 to 4,Yes,Yes,Yes,No,No,Severe,< 1 Hour,Yes,Present,None,No,Yes,Very Well
+Slightly below par,Both/Mixed,111,Fair,36,No,No,10 to 19,Yes,Yes,Yes,No,Yes,Mild,< 1 Hour,No,Questionable,Severe,Yes,Yes,Very Well
+Poor,Small Bowel,84,Good,38,No,Yes,1 to 4,Yes,Yes,Yes,Yes,Yes,Severe,< 1 Hour,No,Absent,Severe,Yes,No,Very Poor
+Very Poor,Both/Mixed,116,Fair,36,No,Yes,10 to 19,No,No,No,No,No,Moderate,1 - 4 Hours,Yes,Present,None,No,No,Very Poor
+Generally Well,Small Bowel,91,Poor,37,No,Yes,None,No,Yes,Yes,Yes,Yes,Moderate,< 1 Hour,Yes,Absent,Mild,Yes,Yes,Poor
+Generally Well,Small Bowel,109,Fair,37,Yes,No,None,No,Yes,No,Yes,Yes,Mild,< 1 Hour,No,Questionable,None,Yes,Yes,Poor
+Terrible,Small Bowel,115,Fair,37,No,Yes,10 to 19,Yes,No,Yes,No,No,Moderate,1 - 4 Hours,Yes,Absent,Moderate,No,Yes,Fair to Good
+Generally Well,Small Bowel,107,Poor,38,Yes,No,20 to 49,No,No,No,Yes,No,None,1 - 4 Hours,Yes,Present,Moderate,No,No,Very Well
+Terrible,Both/Mixed,109,Fair,37,No,No,10 to 19,No,No,Yes,Yes,No,None,< 1 Hour,Yes,Absent,Severe,No,No,Very Poor
+Very Poor,Large Bowel,109,Good,36,Yes,Yes,1 to 4,Yes,No,No,Yes,No,None,1 - 4 Hours,No,Absent,None,No,Yes,Fair to Good
+Poor,Large Bowel,106,Poor,36,No,No,10 to 19,Yes,No,No,Yes,Yes,Moderate,5 Hours,Yes,Questionable,None,Yes,Yes,Very Poor
+Generally Well,Small Bowel,118,Poor,37,No,Yes,5 to 9,Yes,No,No,Yes,No,Severe,1 - 4 Hours,Yes,Present,Mild,No,Yes,Fair to Good
+Poor,Large Bowel,97,Poor,38,Yes,Yes,None,Yes,No,No,No,No,None,< 1 Hour,No,Absent,Severe,No,Yes,Very Poor
+Terrible,Large Bowel,99,Good,38,Yes,Yes,20 to 49,Yes,No,Yes,Yes,No,Severe,< 1 Hour,No,Absent,Severe,No,No,Fair to Good
+Very Poor,Small Bowel,93,Good,38,No,Yes,10 to 19,Yes,Yes,No,Yes,Yes,None,5 Hours,No,Questionable,None,Yes,Yes,Poor
+Generally Well,Large Bowel,100,Fair,38,Yes,No,1 to 4,No,No,Yes,No,No,None,5 Hours,No,Questionable,None,Yes,No,Very Well
+Slightly below par,Small Bowel,91,Fair,37,Yes,Yes,20 to 49,Yes,No,No,No,Yes,None,5 Hours,No,Present,Moderate,Yes,Yes,Fair to Good
+Very Poor,Both/Mixed,92,Fair,36,No,Yes,5 to 9,Yes,Yes,Yes,No,Yes,Severe,1 - 4 Hours,Yes,Absent,Severe,Yes,Yes,Poor
+Terrible,Large Bowel,120,Fair,37,Yes,Yes,5 to 9,Yes,No,No,Yes,Yes,Severe,5 Hours,Yes,Absent,Severe,Yes,No,Fair to Good
+Poor,Small Bowel,117,Poor,38,Yes,Yes,10 to 19,Yes,Yes,No,Yes,No,None,5 Hours,No,Questionable,Moderate,Yes,No,Fair to Good
+Poor,Small Bowel,118,Fair,37,Yes,No,None,Yes,No,No,Yes,Yes,None,5 Hours,Yes,Absent,Severe,No,No,Very Well
+Generally Well,Both/Mixed,116,Poor,37,Yes,No,20 to 49,No,No,No,No,Yes,None,5 Hours,No,Present,None,No,Yes,Very Poor
+Very Poor,Large Bowel,111,Fair,36,Yes,Yes,10 to 19,Yes,No,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Questionable,None,No,No,Very Well
+Terrible,Large Bowel,87,Good,38,Yes,Yes,20 to 49,No,No,Yes,No,Yes,Moderate,1 - 4 Hours,No,Absent,Mild,No,Yes,Very Poor
+Very Poor,Large Bowel,108,Good,37,Yes,Yes,None,No,Yes,Yes,No,No,None,1 - 4 Hours,No,Questionable,Severe,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,106,Fair,36,Yes,Yes,1 to 4,Yes,Yes,Yes,Yes,No,Mild,5 Hours,Yes,Questionable,Severe,No,No,Poor
+Generally Well,Large Bowel,95,Good,38,No,No,1 to 4,Yes,No,No,No,No,Severe,< 1 Hour,Yes,Absent,Moderate,Yes,No,Very Poor
+Very Poor,Large Bowel,82,Good,36,No,Yes,1 to 4,Yes,No,No,No,Yes,None,5 Hours,Yes,Questionable,Severe,No,Yes,Poor
+Very Poor,Small Bowel,99,Good,37,No,No,1 to 4,No,No,Yes,Yes,No,Severe,1 - 4 Hours,No,Present,None,Yes,Yes,Very Poor
+Very Poor,Both/Mixed,84,Fair,38,No,No,20 to 49,No,No,Yes,No,Yes,Moderate,1 - 4 Hours,No,Absent,None,No,Yes,Very Well
+Generally Well,Both/Mixed,90,Poor,36,Yes,Yes,None,No,Yes,No,No,Yes,Mild,1 - 4 Hours,Yes,Absent,Mild,No,Yes,Poor
+Generally Well,Both/Mixed,90,Fair,36,Yes,Yes,5 to 9,Yes,No,No,No,No,Moderate,1 - 4 Hours,Yes,Questionable,Mild,No,No,Very Poor
+Poor,Both/Mixed,88,Poor,38,No,Yes,5 to 9,Yes,Yes,Yes,Yes,No,Moderate,5 Hours,No,Questionable,Moderate,No,Yes,Fair to Good
+Slightly below par,Large Bowel,115,Fair,36,No,Yes,1 to 4,Yes,No,Yes,Yes,Yes,Severe,< 1 Hour,Yes,Absent,Mild,Yes,No,Fair to Good
+Slightly below par,Small Bowel,101,Poor,36,No,Yes,None,No,Yes,Yes,No,Yes,Mild,< 1 Hour,No,Absent,None,Yes,No,Very Poor
+Slightly below par,Both/Mixed,84,Good,36,No,Yes,5 to 9,Yes,No,No,Yes,Yes,Moderate,5 Hours,No,Questionable,None,No,No,Very Poor
+Slightly below par,Both/Mixed,93,Poor,38,No,No,None,Yes,No,No,Yes,Yes,Mild,1 - 4 Hours,No,Present,Mild,No,No,Very Well
+Generally Well,Large Bowel,83,Good,37,Yes,Yes,None,No,No,No,Yes,No,Severe,5 Hours,Yes,Questionable,Mild,Yes,Yes,Very Well
+Generally Well,Both/Mixed,120,Poor,38,Yes,Yes,10 to 19,No,No,Yes,Yes,No,None,5 Hours,Yes,Present,Mild,No,No,Poor
+Very Poor,Large Bowel,109,Fair,37,Yes,Yes,5 to 9,No,Yes,Yes,No,Yes,None,5 Hours,No,Questionable,Severe,No,Yes,Very Well
+Poor,Small Bowel,93,Poor,36,No,Yes,None,No,No,Yes,Yes,No,Moderate,< 1 Hour,Yes,Questionable,Severe,No,Yes,Fair to Good
+Generally Well,Small Bowel,114,Poor,38,No,Yes,None,Yes,Yes,No,No,Yes,Moderate,< 1 Hour,No,Questionable,Severe,Yes,No,Very Poor
+Poor,Large Bowel,105,Poor,37,Yes,Yes,1 to 4,No,Yes,No,Yes,No,None,5 Hours,No,Questionable,Moderate,Yes,Yes,Fair to Good
+Terrible,Large Bowel,119,Good,37,No,No,20 to 49,Yes,Yes,No,Yes,Yes,Severe,1 - 4 Hours,Yes,Present,Mild,Yes,Yes,Very Well
+Generally Well,Both/Mixed,99,Fair,37,Yes,No,20 to 49,No,No,Yes,Yes,No,None,5 Hours,No,Questionable,Severe,No,No,Very Poor
+Generally Well,Large Bowel,81,Poor,38,No,No,10 to 19,Yes,Yes,No,No,No,Severe,< 1 Hour,No,Absent,Mild,No,Yes,Fair to Good
+Very Poor,Small Bowel,87,Good,38,No,Yes,1 to 4,Yes,No,No,Yes,Yes,Severe,5 Hours,No,Questionable,Moderate,No,No,Fair to Good
+Slightly below par,Large Bowel,119,Good,38,Yes,Yes,10 to 19,No,No,Yes,No,Yes,None,1 - 4 Hours,No,Present,Moderate,No,No,Fair to Good
+Slightly below par,Both/Mixed,96,Fair,36,No,No,1 to 4,No,Yes,No,No,No,None,1 - 4 Hours,No,Questionable,Moderate,Yes,No,Very Poor
+Slightly below par,Small Bowel,105,Good,36,No,Yes,10 to 19,No,Yes,No,Yes,No,Moderate,< 1 Hour,No,Questionable,Moderate,Yes,No,Fair to Good
+Very Poor,Small Bowel,109,Poor,38,Yes,Yes,10 to 19,Yes,Yes,No,No,Yes,Severe,5 Hours,No,Present,Severe,No,Yes,Very Well
+Very Poor,Small Bowel,92,Good,38,Yes,No,20 to 49,Yes,Yes,Yes,Yes,Yes,None,< 1 Hour,No,Absent,None,No,Yes,Poor
+Slightly below par,Large Bowel,80,Fair,36,No,No,None,No,Yes,Yes,Yes,No,Moderate,5 Hours,Yes,Absent,Moderate,No,No,Very Well
+Slightly below par,Both/Mixed,111,Poor,36,Yes,Yes,20 to 49,Yes,No,No,No,No,None,5 Hours,Yes,Present,None,Yes,Yes,Very Well
+Poor,Large Bowel,117,Poor,36,Yes,Yes,5 to 9,No,No,Yes,No,Yes,None,5 Hours,Yes,Questionable,None,No,No,Very Well
+Slightly below par,Both/Mixed,81,Good,38,Yes,Yes,10 to 19,No,Yes,No,No,No,Severe,5 Hours,No,Present,Moderate,No,Yes,Very Well
+Terrible,Small Bowel,105,Good,38,Yes,No,5 to 9,Yes,No,No,Yes,No,Mild,< 1 Hour,No,Absent,Severe,No,Yes,Poor
+Very Poor,Small Bowel,87,Poor,37,Yes,No,None,Yes,Yes,No,Yes,No,Severe,< 1 Hour,No,Absent,Severe,Yes,Yes,Very Well
+Poor,Large Bowel,103,Fair,37,Yes,No,1 to 4,Yes,Yes,Yes,No,No,Mild,< 1 Hour,Yes,Present,Moderate,Yes,No,Poor
+Slightly below par,Small Bowel,89,Poor,37,No,No,10 to 19,Yes,No,Yes,No,No,Mild,1 - 4 Hours,No,Present,Moderate,Yes,Yes,Very Well
+Terrible,Large Bowel,92,Fair,37,No,No,1 to 4,No,No,Yes,No,Yes,None,< 1 Hour,Yes,Questionable,Moderate,Yes,Yes,Very Poor
+Generally Well,Small Bowel,110,Poor,37,No,Yes,10 to 19,No,No,Yes,No,No,Mild,1 - 4 Hours,No,Absent,Moderate,No,Yes,Fair to Good
+Poor,Small Bowel,99,Good,36,Yes,Yes,1 to 4,Yes,No,No,No,No,Mild,5 Hours,No,Present,None,No,Yes,Fair to Good
+Slightly below par,Both/Mixed,97,Good,38,Yes,Yes,20 to 49,Yes,Yes,Yes,No,Yes,Severe,5 Hours,No,Absent,Moderate,Yes,Yes,Poor
+Very Poor,Small Bowel,95,Good,37,Yes,No,10 to 19,No,No,Yes,No,Yes,None,1 - 4 Hours,Yes,Absent,None,Yes,Yes,Poor
+Slightly below par,Both/Mixed,103,Poor,38,Yes,Yes,None,No,No,Yes,No,Yes,Severe,1 - 4 Hours,No,Questionable,None,Yes,No,Very Poor
+Very Poor,Large Bowel,92,Poor,36,Yes,No,5 to 9,Yes,Yes,No,No,Yes,Mild,1 - 4 Hours,Yes,Questionable,Mild,Yes,No,Very Well
+Slightly below par,Large Bowel,86,Fair,36,Yes,No,10 to 19,No,Yes,No,Yes,No,Severe,1 - 4 Hours,Yes,Present,Moderate,No,No,Fair to Good
+Terrible,Both/Mixed,103,Poor,38,No,Yes,5 to 9,Yes,No,Yes,No,No,Moderate,< 1 Hour,Yes,Questionable,Moderate,No,No,Poor
+Terrible,Small Bowel,104,Poor,38,No,No,20 to 49,Yes,Yes,No,Yes,Yes,Mild,5 Hours,Yes,Present,Severe,Yes,No,Fair to Good
+Generally Well,Both/Mixed,120,Good,38,No,No,20 to 49,No,No,No,No,Yes,Mild,< 1 Hour,Yes,Absent,Mild,Yes,No,Poor
+Very Poor,Small Bowel,103,Poor,37,Yes,Yes,20 to 49,No,No,Yes,Yes,Yes,None,1 - 4 Hours,Yes,Present,Moderate,Yes,Yes,Fair to Good
+Generally Well,Large Bowel,115,Fair,37,Yes,Yes,5 to 9,No,Yes,No,Yes,Yes,Mild,< 1 Hour,No,Absent,Severe,No,No,Very Poor
+Very Poor,Large Bowel,108,Poor,37,Yes,No,1 to 4,No,No,No,Yes,No,Severe,5 Hours,Yes,Absent,None,Yes,No,Poor
+Generally Well,Large Bowel,88,Good,36,No,No,20 to 49,Yes,No,No,Yes,Yes,Mild,5 Hours,Yes,Absent,Moderate,Yes,No,Very Well
+Slightly below par,Small Bowel,97,Good,36,Yes,No,10 to 19,Yes,Yes,Yes,Yes,No,Moderate,5 Hours,Yes,Present,None,Yes,No,Very Poor
+Terrible,Both/Mixed,116,Poor,36,Yes,Yes,20 to 49,No,No,Yes,No,No,Mild,1 - 4 Hours,No,Questionable,Severe,No,Yes,Fair to Good
+Poor,Large Bowel,116,Poor,37,Yes,No,None,No,Yes,No,Yes,Yes,Severe,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Very Poor
+Poor,Large Bowel,91,Poor,37,No,Yes,20 to 49,Yes,No,Yes,No,No,Moderate,5 Hours,Yes,Present,Mild,No,Yes,Fair to Good
+Poor,Both/Mixed,93,Poor,36,Yes,Yes,1 to 4,No,Yes,No,Yes,No,Severe,5 Hours,No,Absent,Moderate,No,No,Poor
+Poor,Large Bowel,118,Poor,38,Yes,No,None,Yes,Yes,Yes,Yes,No,Mild,5 Hours,No,Questionable,Moderate,No,Yes,Very Poor
+Poor,Large Bowel,115,Fair,36,No,No,20 to 49,Yes,No,No,No,Yes,Moderate,< 1 Hour,No,Absent,Mild,Yes,Yes,Very Poor
+Generally Well,Small Bowel,119,Fair,36,No,Yes,20 to 49,Yes,Yes,No,No,Yes,Moderate,1 - 4 Hours,Yes,Present,None,No,No,Very Well
+Terrible,Small Bowel,114,Poor,36,Yes,Yes,5 to 9,No,No,No,Yes,Yes,Moderate,< 1 Hour,Yes,Questionable,Moderate,No,Yes,Very Poor
+Slightly below par,Small Bowel,106,Good,38,No,Yes,5 to 9,No,Yes,Yes,No,Yes,None,1 - 4 Hours,Yes,Absent,Moderate,No,Yes,Very Poor
+Generally Well,Both/Mixed,107,Poor,36,Yes,No,None,Yes,No,No,No,No,None,5 Hours,Yes,Absent,Mild,No,No,Very Well
+Generally Well,Small Bowel,91,Good,38,No,Yes,None,No,Yes,Yes,No,Yes,Severe,< 1 Hour,Yes,Present,Moderate,Yes,No,Poor
+Very Poor,Both/Mixed,108,Fair,38,Yes,No,1 to 4,No,Yes,No,No,Yes,Moderate,5 Hours,No,Questionable,Mild,Yes,Yes,Very Well
+Terrible,Small Bowel,107,Fair,38,Yes,No,5 to 9,Yes,Yes,No,No,No,Severe,< 1 Hour,No,Absent,None,Yes,Yes,Fair to Good
+Terrible,Both/Mixed,93,Good,37,No,Yes,5 to 9,Yes,No,No,No,Yes,None,< 1 Hour,Yes,Absent,Severe,No,No,Fair to Good
+Slightly below par,Small Bowel,99,Fair,37,Yes,Yes,1 to 4,Yes,No,Yes,No,Yes,Mild,1 - 4 Hours,No,Absent,Mild,Yes,No,Very Well
+Very Poor,Large Bowel,83,Good,36,No,Yes,10 to 19,No,No,No,No,No,Moderate,1 - 4 Hours,Yes,Absent,Severe,Yes,No,Poor
+Slightly below par,Both/Mixed,84,Fair,38,No,Yes,5 to 9,No,No,Yes,No,Yes,Severe,1 - 4 Hours,No,Questionable,None,No,No,Very Well
+Slightly below par,Both/Mixed,80,Poor,37,Yes,Yes,1 to 4,No,No,No,Yes,Yes,None,< 1 Hour,No,Questionable,Mild,No,Yes,Fair to Good
+Generally Well,Small Bowel,105,Poor,36,No,Yes,1 to 4,No,Yes,Yes,No,No,Severe,5 Hours,No,Present,Moderate,Yes,Yes,Poor
+Terrible,Both/Mixed,113,Good,37,Yes,Yes,5 to 9,No,Yes,Yes,Yes,No,Severe,< 1 Hour,No,Present,Moderate,Yes,Yes,Very Well
+Slightly below par,Large Bowel,119,Poor,38,Yes,Yes,None,Yes,No,Yes,No,No,Moderate,1 - 4 Hours,No,Questionable,Moderate,Yes,No,Very Poor
+Poor,Small Bowel,102,Good,36,Yes,No,1 to 4,No,Yes,Yes,Yes,Yes,None,5 Hours,Yes,Present,None,No,Yes,Very Poor
+Terrible,Large Bowel,83,Fair,37,Yes,Yes,1 to 4,No,No,No,Yes,No,Mild,< 1 Hour,No,Questionable,Mild,Yes,Yes,Poor
+Poor,Large Bowel,102,Poor,37,Yes,No,10 to 19,Yes,Yes,Yes,No,Yes,Mild,< 1 Hour,No,Absent,Mild,No,No,Fair to Good
+Poor,Both/Mixed,96,Fair,38,No,Yes,None,No,Yes,No,Yes,Yes,None,1 - 4 Hours,Yes,Absent,Mild,No,Yes,Very Well
+Very Poor,Large Bowel,91,Fair,37,No,No,5 to 9,No,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,Yes,Absent,None,Yes,Yes,Fair to Good
+Poor,Large Bowel,95,Fair,37,No,No,None,Yes,No,No,No,Yes,Moderate,5 Hours,No,Absent,None,No,Yes,Poor
+Generally Well,Small Bowel,116,Good,37,Yes,No,1 to 4,No,Yes,Yes,Yes,No,None,1 - 4 Hours,No,Absent,Moderate,No,Yes,Very Well
+Poor,Large Bowel,120,Good,36,Yes,Yes,10 to 19,No,Yes,No,Yes,Yes,Moderate,5 Hours,No,Questionable,Severe,Yes,No,Very Well
+Poor,Large Bowel,94,Fair,36,Yes,Yes,None,Yes,No,No,No,No,Severe,5 Hours,No,Questionable,Moderate,Yes,Yes,Fair to Good
+Terrible,Both/Mixed,101,Good,36,No,No,1 to 4,Yes,Yes,No,No,Yes,Severe,< 1 Hour,No,Questionable,Moderate,Yes,No,Poor
+Poor,Small Bowel,110,Good,37,Yes,No,None,No,Yes,Yes,No,No,None,5 Hours,Yes,Questionable,Moderate,Yes,Yes,Very Well
+Poor,Both/Mixed,88,Poor,37,No,Yes,None,No,Yes,Yes,Yes,No,Mild,1 - 4 Hours,No,Questionable,Mild,Yes,No,Fair to Good
+Terrible,Large Bowel,93,Poor,38,Yes,No,5 to 9,Yes,No,No,No,Yes,Severe,1 - 4 Hours,Yes,Absent,Mild,Yes,Yes,Fair to Good
+Poor,Small Bowel,106,Fair,38,No,Yes,5 to 9,Yes,Yes,No,No,No,Severe,< 1 Hour,No,Questionable,Moderate,Yes,No,Very Poor
+Poor,Large Bowel,94,Good,37,No,No,1 to 4,No,Yes,No,Yes,No,None,1 - 4 Hours,No,Absent,Mild,Yes,Yes,Very Well
+Terrible,Both/Mixed,80,Fair,38,No,Yes,20 to 49,No,Yes,Yes,Yes,No,None,< 1 Hour,No,Present,None,Yes,Yes,Fair to Good
+Very Poor,Large Bowel,98,Good,37,Yes,No,10 to 19,Yes,No,No,No,No,Moderate,< 1 Hour,No,Questionable,Mild,Yes,No,Fair to Good
+Very Poor,Both/Mixed,108,Fair,38,No,No,20 to 49,No,Yes,No,Yes,Yes,Severe,1 - 4 Hours,Yes,Absent,Moderate,No,No,Very Well
+Poor,Small Bowel,99,Poor,37,Yes,Yes,5 to 9,No,No,Yes,Yes,No,None,1 - 4 Hours,No,Questionable,Moderate,No,No,Very Poor
+Very Poor,Small Bowel,101,Good,38,No,Yes,10 to 19,No,Yes,No,Yes,Yes,Severe,< 1 Hour,Yes,Questionable,Mild,No,No,Very Well
+Poor,Large Bowel,81,Good,37,No,No,20 to 49,No,Yes,No,No,No,None,1 - 4 Hours,Yes,Absent,None,No,No,Poor
+Slightly below par,Large Bowel,113,Poor,37,Yes,Yes,5 to 9,No,Yes,Yes,Yes,No,None,5 Hours,Yes,Questionable,None,No,No,Very Well
+Very Poor,Large Bowel,99,Good,37,No,No,20 to 49,Yes,No,Yes,No,No,Mild,1 - 4 Hours,Yes,Present,Moderate,Yes,Yes,Poor
+Terrible,Large Bowel,99,Poor,38,No,No,1 to 4,No,No,No,Yes,No,Severe,5 Hours,Yes,Questionable,Mild,Yes,Yes,Fair to Good
+Very Poor,Large Bowel,118,Poor,37,No,No,1 to 4,Yes,No,No,No,Yes,Moderate,< 1 Hour,Yes,Present,Moderate,No,Yes,Very Poor
+Very Poor,Large Bowel,86,Fair,38,No,No,10 to 19,Yes,Yes,No,No,No,None,< 1 Hour,Yes,Absent,None,No,Yes,Very Poor
+Terrible,Small Bowel,82,Good,38,Yes,No,20 to 49,Yes,Yes,No,No,No,Mild,5 Hours,Yes,Absent,Moderate,Yes,Yes,Fair to Good
+Terrible,Large Bowel,82,Good,36,No,Yes,20 to 49,Yes,Yes,No,Yes,Yes,Severe,5 Hours,No,Absent,None,Yes,No,Very Well
+Generally Well,Both/Mixed,107,Poor,37,No,No,20 to 49,Yes,No,Yes,No,No,Moderate,5 Hours,No,Questionable,Moderate,No,No,Very Well
+Generally Well,Small Bowel,103,Fair,36,Yes,Yes,5 to 9,No,Yes,No,Yes,No,None,1 - 4 Hours,Yes,Absent,Mild,Yes,No,Very Well
+Poor,Both/Mixed,113,Poor,37,No,Yes,5 to 9,No,No,No,Yes,No,Severe,5 Hours,Yes,Present,Severe,No,No,Fair to Good
+Slightly below par,Large Bowel,90,Poor,38,Yes,Yes,None,No,No,No,No,Yes,Severe,< 1 Hour,Yes,Absent,Severe,Yes,Yes,Very Well
+Poor,Both/Mixed,108,Good,38,No,No,None,Yes,Yes,No,No,Yes,Severe,1 - 4 Hours,No,Present,Mild,No,No,Fair to Good
+Very Poor,Small Bowel,99,Fair,36,No,Yes,None,No,Yes,No,Yes,No,Severe,5 Hours,No,Present,Severe,No,No,Very Well
+Generally Well,Both/Mixed,97,Poor,36,Yes,No,10 to 19,No,Yes,No,No,No,Mild,5 Hours,Yes,Present,Mild,Yes,No,Very Well
+Very Poor,Large Bowel,99,Poor,37,No,No,5 to 9,Yes,No,Yes,Yes,No,None,5 Hours,No,Present,None,Yes,No,Fair to Good
+Poor,Both/Mixed,99,Good,37,No,Yes,20 to 49,Yes,No,No,Yes,Yes,Moderate,1 - 4 Hours,Yes,Absent,Moderate,No,Yes,Very Well
+Very Poor,Large Bowel,107,Poor,36,Yes,No,5 to 9,No,Yes,No,Yes,No,Mild,< 1 Hour,Yes,Absent,Severe,No,No,Poor
+Poor,Small Bowel,93,Poor,36,No,Yes,20 to 49,Yes,Yes,No,No,No,Moderate,< 1 Hour,No,Present,Moderate,No,No,Very Well
+Poor,Small Bowel,110,Good,36,Yes,No,5 to 9,No,Yes,No,Yes,No,None,< 1 Hour,No,Absent,Mild,Yes,Yes,Poor
+Poor,Small Bowel,82,Fair,36,No,Yes,5 to 9,No,No,Yes,No,Yes,None,5 Hours,No,Questionable,Mild,No,Yes,Poor
+Generally Well,Large Bowel,119,Poor,38,No,No,20 to 49,No,Yes,Yes,No,Yes,None,< 1 Hour,No,Questionable,Moderate,No,Yes,Very Poor
+Terrible,Large Bowel,120,Good,37,No,No,None,No,No,Yes,No,No,Moderate,1 - 4 Hours,No,Absent,Moderate,Yes,No,Very Well
+Poor,Both/Mixed,84,Fair,37,Yes,No,None,No,No,No,No,No,None,5 Hours,No,Present,None,Yes,Yes,Poor
+Poor,Small Bowel,119,Fair,38,No,No,5 to 9,No,Yes,No,No,Yes,None,1 - 4 Hours,No,Absent,Severe,Yes,No,Very Poor
+Slightly below par,Small Bowel,108,Good,38,Yes,Yes,None,Yes,No,No,Yes,No,None,1 - 4 Hours,Yes,Present,None,No,Yes,Poor
+Slightly below par,Both/Mixed,81,Poor,38,No,No,20 to 49,No,No,No,Yes,No,Severe,1 - 4 Hours,No,Absent,Moderate,No,Yes,Very Poor
+Terrible,Small Bowel,87,Poor,36,Yes,No,1 to 4,No,Yes,Yes,No,Yes,Mild,< 1 Hour,Yes,Present,Moderate,Yes,No,Poor
+Generally Well,Both/Mixed,117,Poor,36,Yes,Yes,None,No,Yes,Yes,No,Yes,Moderate,< 1 Hour,No,Absent,None,No,Yes,Fair to Good
+Slightly below par,Small Bowel,110,Poor,36,Yes,Yes,1 to 4,No,No,Yes,No,Yes,Severe,5 Hours,Yes,Present,Severe,No,No,Fair to Good
+Very Poor,Both/Mixed,107,Poor,36,Yes,No,10 to 19,Yes,No,Yes,Yes,Yes,Moderate,1 - 4 Hours,Yes,Questionable,None,Yes,No,Very Well
+Terrible,Small Bowel,82,Poor,38,Yes,Yes,None,Yes,Yes,Yes,Yes,No,None,5 Hours,Yes,Present,None,Yes,Yes,Poor
+Generally Well,Both/Mixed,91,Good,38,Yes,Yes,1 to 4,Yes,No,No,Yes,Yes,Mild,5 Hours,No,Absent,None,Yes,Yes,Very Well
+Generally Well,Large Bowel,89,Poor,37,No,Yes,20 to 49,Yes,Yes,No,No,No,Moderate,1 - 4 Hours,Yes,Questionable,Moderate,Yes,No,Fair to Good
+Terrible,Large Bowel,91,Fair,37,No,Yes,20 to 49,Yes,Yes,Yes,No,No,None,< 1 Hour,Yes,Questionable,Severe,Yes,No,Very Well
+Poor,Both/Mixed,104,Good,38,Yes,Yes,1 to 4,No,Yes,No,Yes,Yes,None,5 Hours,Yes,Absent,None,Yes,No,Very Poor
+Slightly below par,Large Bowel,91,Poor,38,Yes,Yes,1 to 4,No,No,Yes,No,No,Mild,5 Hours,No,Questionable,Severe,Yes,Yes,Very Poor
+Generally Well,Both/Mixed,86,Poor,38,No,Yes,20 to 49,Yes,No,No,No,No,Moderate,< 1 Hour,No,Questionable,Moderate,Yes,No,Poor
+Generally Well,Large Bowel,118,Poor,36,Yes,Yes,20 to 49,No,No,Yes,No,No,Severe,5 Hours,Yes,Present,Moderate,No,Yes,Very Poor
+Poor,Large Bowel,120,Fair,38,Yes,Yes,1 to 4,Yes,No,No,No,Yes,Severe,1 - 4 Hours,Yes,Questionable,None,Yes,Yes,Very Well
+Poor,Small Bowel,85,Poor,37,Yes,No,20 to 49,No,No,Yes,Yes,No,Mild,1 - 4 Hours,No,Present,Severe,Yes,Yes,Very Well
+Poor,Small Bowel,94,Good,38,No,Yes,5 to 9,Yes,No,Yes,No,No,Severe,5 Hours,No,Present,Severe,Yes,No,Very Poor
+Generally Well,Small Bowel,86,Fair,36,Yes,No,20 to 49,No,Yes,No,Yes,No,None,1 - 4 Hours,No,Absent,Moderate,Yes,No,Fair to Good
+Generally Well,Small Bowel,90,Fair,37,Yes,Yes,5 to 9,No,No,No,No,Yes,Severe,< 1 Hour,No,Questionable,Mild,No,Yes,Very Well
+Very Poor,Both/Mixed,116,Good,37,No,No,20 to 49,No,Yes,Yes,No,Yes,Severe,5 Hours,No,Absent,Moderate,No,No,Very Well
+Very Poor,Small Bowel,83,Good,38,No,Yes,20 to 49,No,Yes,No,No,Yes,None,5 Hours,No,Absent,Severe,No,Yes,Fair to Good
+Generally Well,Large Bowel,99,Poor,36,No,No,20 to 49,No,No,Yes,No,Yes,Moderate,5 Hours,Yes,Present,Severe,No,No,Very Poor
+Generally Well,Small Bowel,87,Poor,37,Yes,No,20 to 49,Yes,No,No,No,Yes,Moderate,1 - 4 Hours,Yes,Present,Mild,Yes,No,Very Poor
+Slightly below par,Small Bowel,98,Fair,38,Yes,Yes,5 to 9,No,No,No,Yes,No,Severe,5 Hours,No,Questionable,None,Yes,Yes,Very Poor
+Slightly below par,Both/Mixed,119,Fair,38,Yes,No,1 to 4,Yes,No,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Questionable,Severe,Yes,No,Fair to Good
+Very Poor,Small Bowel,117,Poor,38,Yes,No,10 to 19,Yes,Yes,Yes,Yes,Yes,None,< 1 Hour,Yes,Questionable,Severe,Yes,No,Poor
+Very Poor,Large Bowel,96,Fair,36,No,Yes,10 to 19,Yes,Yes,No,No,No,Moderate,5 Hours,No,Questionable,None,No,No,Fair to Good
+Slightly below par,Small Bowel,84,Poor,36,No,Yes,20 to 49,Yes,Yes,No,Yes,No,Severe,1 - 4 Hours,No,Absent,Severe,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,87,Fair,37,No,Yes,None,No,No,No,Yes,No,Moderate,1 - 4 Hours,No,Questionable,Moderate,Yes,No,Very Poor
+Slightly below par,Both/Mixed,87,Poor,38,No,No,10 to 19,Yes,No,Yes,Yes,No,Moderate,5 Hours,Yes,Questionable,None,No,Yes,Fair to Good
+Very Poor,Small Bowel,108,Fair,38,No,Yes,None,Yes,No,Yes,No,No,Mild,< 1 Hour,No,Absent,Mild,No,Yes,Very Poor
+Slightly below par,Both/Mixed,119,Good,36,No,No,None,No,Yes,No,No,Yes,Mild,< 1 Hour,No,Questionable,Severe,No,Yes,Fair to Good
+Poor,Both/Mixed,98,Fair,38,No,Yes,None,No,Yes,No,No,No,Mild,< 1 Hour,Yes,Present,Mild,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,117,Poor,37,Yes,No,None,No,Yes,No,No,Yes,Moderate,1 - 4 Hours,No,Absent,Moderate,No,No,Very Poor
+Terrible,Both/Mixed,84,Fair,38,Yes,No,1 to 4,No,No,No,No,No,Mild,5 Hours,Yes,Present,Moderate,Yes,Yes,Very Well
+Poor,Large Bowel,97,Fair,36,Yes,No,None,Yes,No,Yes,No,Yes,Mild,5 Hours,Yes,Present,Moderate,Yes,No,Fair to Good
+Generally Well,Both/Mixed,102,Poor,37,No,No,1 to 4,Yes,No,Yes,No,No,None,< 1 Hour,Yes,Present,Mild,No,No,Poor
+Slightly below par,Large Bowel,93,Fair,37,Yes,No,1 to 4,No,No,No,No,Yes,None,1 - 4 Hours,No,Present,None,No,Yes,Very Well
+Generally Well,Large Bowel,117,Good,38,Yes,No,None,No,Yes,No,Yes,No,Severe,< 1 Hour,Yes,Absent,Moderate,Yes,Yes,Fair to Good
+Poor,Large Bowel,90,Fair,37,No,No,None,No,No,No,No,No,Severe,5 Hours,No,Absent,Severe,Yes,Yes,Fair to Good
+Very Poor,Small Bowel,101,Fair,38,Yes,Yes,1 to 4,Yes,Yes,No,No,No,Severe,< 1 Hour,Yes,Present,None,No,No,Fair to Good
+Generally Well,Both/Mixed,93,Fair,36,Yes,Yes,None,No,Yes,No,Yes,No,None,5 Hours,No,Present,None,No,Yes,Poor
+Slightly below par,Small Bowel,95,Fair,36,No,No,1 to 4,No,No,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Present,None,No,Yes,Very Well
+Terrible,Small Bowel,103,Poor,36,No,Yes,5 to 9,Yes,No,Yes,Yes,Yes,Mild,< 1 Hour,No,Present,Severe,Yes,Yes,Fair to Good
+Slightly below par,Large Bowel,93,Good,36,Yes,No,20 to 49,No,Yes,No,No,No,None,1 - 4 Hours,No,Questionable,Mild,Yes,No,Very Poor
+Slightly below par,Large Bowel,86,Fair,38,Yes,Yes,None,No,No,No,Yes,Yes,Moderate,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Very Poor
+Terrible,Both/Mixed,108,Poor,38,Yes,No,20 to 49,Yes,No,No,No,Yes,Severe,1 - 4 Hours,No,Questionable,Moderate,No,No,Very Poor
+Poor,Small Bowel,111,Fair,36,Yes,No,20 to 49,No,Yes,No,Yes,No,Severe,1 - 4 Hours,No,Present,Moderate,No,Yes,Very Poor
+Slightly below par,Small Bowel,80,Poor,37,Yes,Yes,1 to 4,Yes,Yes,Yes,No,Yes,Severe,5 Hours,Yes,Questionable,Moderate,No,Yes,Very Well
+Slightly below par,Both/Mixed,92,Poor,36,No,Yes,1 to 4,Yes,Yes,Yes,Yes,No,Moderate,< 1 Hour,Yes,Present,Moderate,Yes,No,Very Poor
+Very Poor,Both/Mixed,84,Poor,36,No,Yes,None,Yes,No,No,No,No,Moderate,< 1 Hour,Yes,Questionable,Mild,Yes,No,Very Well
+Poor,Small Bowel,111,Fair,36,No,Yes,10 to 19,Yes,Yes,Yes,Yes,Yes,Moderate,< 1 Hour,No,Questionable,Severe,Yes,No,Poor
+Poor,Large Bowel,85,Good,38,No,Yes,None,Yes,Yes,Yes,No,Yes,Severe,5 Hours,No,Questionable,None,No,No,Fair to Good
+Terrible,Both/Mixed,114,Fair,37,Yes,Yes,1 to 4,No,No,Yes,No,No,Mild,< 1 Hour,No,Absent,Mild,No,Yes,Very Well
+Poor,Small Bowel,108,Good,37,No,Yes,20 to 49,Yes,No,No,Yes,Yes,Mild,5 Hours,Yes,Absent,Moderate,Yes,No,Fair to Good
+Very Poor,Small Bowel,101,Good,38,No,Yes,10 to 19,No,Yes,No,Yes,No,None,1 - 4 Hours,Yes,Absent,Severe,No,No,Poor
+Generally Well,Small Bowel,92,Good,38,Yes,Yes,10 to 19,Yes,No,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Questionable,None,No,Yes,Very Well
+Generally Well,Both/Mixed,96,Poor,37,No,Yes,10 to 19,Yes,Yes,No,No,No,Mild,< 1 Hour,No,Present,Moderate,No,Yes,Poor
+Terrible,Large Bowel,96,Poor,36,Yes,No,20 to 49,No,No,No,No,Yes,None,< 1 Hour,No,Present,Mild,No,No,Very Well
+Very Poor,Both/Mixed,96,Poor,36,No,No,10 to 19,Yes,Yes,No,No,No,None,1 - 4 Hours,Yes,Absent,Moderate,No,Yes,Fair to Good
+Terrible,Both/Mixed,101,Fair,37,No,Yes,10 to 19,Yes,Yes,Yes,No,No,Severe,5 Hours,Yes,Questionable,Moderate,No,Yes,Very Poor
+Terrible,Large Bowel,101,Good,36,No,Yes,5 to 9,No,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,No,Present,Mild,Yes,Yes,Fair to Good
+Very Poor,Both/Mixed,90,Poor,37,No,Yes,20 to 49,Yes,Yes,No,Yes,No,Moderate,< 1 Hour,Yes,Absent,Moderate,No,Yes,Very Well
+Generally Well,Small Bowel,81,Good,37,Yes,No,5 to 9,No,Yes,Yes,No,Yes,Severe,< 1 Hour,No,Present,None,No,Yes,Fair to Good
+Poor,Large Bowel,81,Poor,37,No,No,5 to 9,No,Yes,Yes,No,No,Mild,1 - 4 Hours,No,Present,Severe,Yes,No,Poor
+Very Poor,Large Bowel,91,Fair,37,No,No,None,Yes,Yes,No,Yes,Yes,Moderate,1 - 4 Hours,Yes,Questionable,None,Yes,Yes,Very Poor
+Poor,Small Bowel,100,Good,38,Yes,Yes,None,Yes,Yes,Yes,Yes,No,None,5 Hours,Yes,Questionable,Mild,No,Yes,Very Poor
+Very Poor,Large Bowel,97,Good,37,Yes,No,None,No,No,Yes,Yes,Yes,Severe,5 Hours,Yes,Absent,Moderate,No,No,Very Well
+Generally Well,Both/Mixed,120,Fair,37,No,Yes,10 to 19,Yes,No,No,Yes,No,None,1 - 4 Hours,Yes,Questionable,None,No,No,Very Poor
+Slightly below par,Both/Mixed,115,Poor,38,Yes,No,None,Yes,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,Yes,Present,Moderate,No,No,Poor
+Terrible,Large Bowel,85,Good,37,Yes,No,5 to 9,No,No,Yes,Yes,No,None,< 1 Hour,No,Present,Severe,Yes,Yes,Very Poor
+Terrible,Small Bowel,90,Poor,38,No,Yes,5 to 9,Yes,No,Yes,Yes,No,Moderate,5 Hours,Yes,Absent,None,No,No,Very Poor
+Very Poor,Small Bowel,102,Good,36,Yes,No,5 to 9,No,Yes,No,Yes,Yes,Moderate,< 1 Hour,No,Present,Moderate,No,Yes,Fair to Good
+Very Poor,Both/Mixed,92,Good,36,No,No,1 to 4,No,No,Yes,No,No,Severe,5 Hours,Yes,Questionable,Moderate,Yes,No,Very Poor
+Slightly below par,Small Bowel,109,Fair,36,No,No,20 to 49,Yes,Yes,Yes,No,No,Severe,1 - 4 Hours,No,Absent,Moderate,No,No,Poor
+Poor,Both/Mixed,89,Poor,38,Yes,No,20 to 49,No,No,Yes,No,Yes,Severe,1 - 4 Hours,No,Absent,None,Yes,Yes,Poor
+Poor,Large Bowel,98,Poor,36,No,Yes,1 to 4,Yes,Yes,Yes,No,Yes,Moderate,< 1 Hour,No,Absent,Mild,Yes,Yes,Very Poor
+Poor,Both/Mixed,94,Good,38,No,No,None,No,No,Yes,No,Yes,Moderate,1 - 4 Hours,Yes,Absent,None,Yes,No,Very Poor
+Poor,Both/Mixed,118,Good,37,No,No,1 to 4,No,No,No,No,No,Moderate,5 Hours,No,Absent,Moderate,No,No,Very Poor
+Terrible,Small Bowel,113,Fair,37,No,No,None,No,Yes,Yes,Yes,No,None,1 - 4 Hours,Yes,Questionable,None,Yes,Yes,Very Poor
+Slightly below par,Both/Mixed,107,Poor,36,Yes,No,5 to 9,Yes,No,No,Yes,Yes,None,5 Hours,Yes,Present,Mild,No,No,Fair to Good
+Generally Well,Large Bowel,81,Fair,36,Yes,Yes,5 to 9,No,Yes,Yes,Yes,No,None,< 1 Hour,Yes,Absent,Severe,Yes,No,Very Well
+Slightly below par,Both/Mixed,106,Poor,36,No,Yes,10 to 19,No,No,No,No,No,Severe,< 1 Hour,Yes,Present,Mild,No,No,Very Poor
+Generally Well,Small Bowel,102,Fair,38,No,Yes,20 to 49,Yes,Yes,Yes,No,Yes,None,1 - 4 Hours,No,Absent,Moderate,No,No,Poor
+Very Poor,Both/Mixed,119,Good,37,No,No,None,No,Yes,Yes,Yes,No,Severe,5 Hours,No,Present,Severe,No,No,Fair to Good
+Generally Well,Large Bowel,108,Poor,36,No,No,1 to 4,No,No,No,Yes,No,Severe,< 1 Hour,No,Questionable,Moderate,No,No,Very Well
+Poor,Large Bowel,114,Fair,37,Yes,Yes,10 to 19,No,Yes,Yes,Yes,No,Severe,< 1 Hour,Yes,Questionable,None,Yes,Yes,Very Poor
+Slightly below par,Large Bowel,105,Fair,38,No,No,1 to 4,Yes,No,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Present,Severe,Yes,No,Fair to Good
+Slightly below par,Both/Mixed,82,Fair,36,Yes,No,20 to 49,No,Yes,No,Yes,No,Severe,1 - 4 Hours,No,Present,Moderate,No,No,Very Well
+Slightly below par,Large Bowel,112,Poor,37,Yes,No,5 to 9,Yes,No,No,No,No,None,1 - 4 Hours,Yes,Present,Mild,No,Yes,Very Well
+Very Poor,Both/Mixed,113,Good,36,Yes,No,1 to 4,No,No,No,No,No,Mild,1 - 4 Hours,Yes,Present,Moderate,No,No,Very Poor
+Slightly below par,Large Bowel,99,Poor,37,Yes,No,None,No,Yes,No,Yes,No,None,1 - 4 Hours,Yes,Present,Severe,Yes,No,Very Poor
+Very Poor,Small Bowel,94,Fair,38,Yes,Yes,10 to 19,No,Yes,Yes,No,No,None,1 - 4 Hours,No,Absent,Severe,No,Yes,Poor
+Terrible,Large Bowel,93,Good,38,No,Yes,10 to 19,Yes,No,No,No,No,Mild,1 - 4 Hours,Yes,Present,Moderate,No,No,Very Poor
+Slightly below par,Small Bowel,117,Poor,38,Yes,Yes,1 to 4,No,Yes,No,Yes,No,None,1 - 4 Hours,Yes,Questionable,Mild,No,No,Very Well
+Generally Well,Both/Mixed,102,Fair,38,Yes,Yes,20 to 49,Yes,No,Yes,No,No,Moderate,5 Hours,No,Present,Moderate,No,Yes,Poor
+Terrible,Both/Mixed,113,Poor,37,Yes,Yes,5 to 9,Yes,No,Yes,No,Yes,Severe,< 1 Hour,Yes,Absent,Severe,Yes,No,Fair to Good
+Terrible,Small Bowel,96,Poor,36,Yes,No,20 to 49,Yes,No,No,Yes,No,Severe,< 1 Hour,Yes,Absent,Severe,No,No,Fair to Good
+Slightly below par,Small Bowel,98,Good,37,Yes,No,None,No,No,No,Yes,No,Moderate,1 - 4 Hours,No,Absent,Moderate,No,Yes,Poor
+Terrible,Small Bowel,84,Good,36,No,No,5 to 9,No,Yes,Yes,Yes,No,Severe,< 1 Hour,No,Present,Moderate,Yes,Yes,Fair to Good
+Poor,Both/Mixed,115,Good,37,Yes,Yes,None,No,No,No,No,No,Moderate,< 1 Hour,No,Questionable,Severe,Yes,Yes,Very Poor
+Generally Well,Both/Mixed,104,Poor,38,No,No,20 to 49,No,No,Yes,No,No,None,1 - 4 Hours,Yes,Present,Severe,No,Yes,Very Poor
+Very Poor,Small Bowel,110,Poor,38,Yes,Yes,20 to 49,No,Yes,No,Yes,Yes,Severe,5 Hours,No,Present,Moderate,Yes,No,Fair to Good
+Slightly below par,Both/Mixed,82,Poor,36,Yes,No,20 to 49,No,Yes,No,Yes,Yes,Mild,1 - 4 Hours,Yes,Questionable,Severe,Yes,Yes,Very Well
+Generally Well,Small Bowel,86,Good,36,Yes,No,1 to 4,No,Yes,No,No,No,Mild,< 1 Hour,Yes,Absent,Severe,No,Yes,Fair to Good
+Terrible,Both/Mixed,86,Fair,38,Yes,Yes,20 to 49,Yes,No,No,Yes,Yes,Mild,< 1 Hour,No,Questionable,None,No,No,Very Well
+Poor,Small Bowel,115,Good,36,No,No,20 to 49,Yes,Yes,Yes,No,No,Moderate,5 Hours,Yes,Present,Mild,Yes,No,Fair to Good
+Terrible,Both/Mixed,87,Good,38,Yes,Yes,1 to 4,Yes,Yes,Yes,No,No,None,1 - 4 Hours,Yes,Questionable,Mild,No,No,Fair to Good
+Very Poor,Small Bowel,80,Good,38,Yes,Yes,1 to 4,Yes,No,Yes,Yes,No,Moderate,< 1 Hour,No,Questionable,Severe,Yes,No,Fair to Good
+Very Poor,Both/Mixed,95,Poor,38,No,No,20 to 49,Yes,No,No,Yes,Yes,Severe,< 1 Hour,Yes,Questionable,Moderate,No,Yes,Very Poor
+Generally Well,Both/Mixed,117,Poor,38,No,Yes,1 to 4,No,No,No,No,No,Severe,1 - 4 Hours,No,Absent,None,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,111,Poor,37,No,Yes,None,Yes,Yes,Yes,No,Yes,Severe,5 Hours,No,Questionable,Moderate,Yes,Yes,Poor
+Poor,Both/Mixed,97,Poor,38,No,Yes,None,No,No,Yes,Yes,No,Severe,1 - 4 Hours,No,Present,Moderate,Yes,Yes,Very Well
+Very Poor,Small Bowel,102,Good,37,No,Yes,1 to 4,Yes,No,Yes,No,Yes,Severe,5 Hours,No,Questionable,Moderate,Yes,Yes,Very Poor
+Generally Well,Large Bowel,92,Good,36,Yes,No,None,No,Yes,No,No,Yes,Moderate,5 Hours,No,Present,Mild,Yes,Yes,Very Well
+Very Poor,Both/Mixed,100,Poor,37,No,Yes,1 to 4,Yes,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,No,Present,Moderate,Yes,No,Very Poor
+Poor,Small Bowel,83,Good,36,No,No,20 to 49,Yes,No,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Questionable,None,No,No,Very Well
+Very Poor,Both/Mixed,116,Fair,37,Yes,No,5 to 9,No,No,No,No,No,Mild,1 - 4 Hours,Yes,Absent,None,Yes,No,Poor
+Slightly below par,Both/Mixed,114,Good,38,Yes,Yes,5 to 9,No,Yes,No,No,Yes,Severe,1 - 4 Hours,Yes,Present,None,No,No,Poor
+Very Poor,Large Bowel,107,Fair,37,No,No,10 to 19,Yes,No,Yes,Yes,No,Mild,1 - 4 Hours,Yes,Absent,None,Yes,No,Very Well
+Generally Well,Large Bowel,112,Poor,36,Yes,No,1 to 4,No,Yes,No,No,No,Mild,1 - 4 Hours,No,Questionable,Severe,Yes,Yes,Fair to Good
+Very Poor,Both/Mixed,103,Fair,38,No,Yes,10 to 19,Yes,No,No,No,No,Mild,1 - 4 Hours,Yes,Absent,None,No,Yes,Very Poor
+Generally Well,Both/Mixed,95,Fair,37,No,No,None,No,Yes,Yes,Yes,Yes,Mild,< 1 Hour,Yes,Present,Moderate,No,Yes,Very Well
+Terrible,Small Bowel,92,Fair,38,No,No,10 to 19,No,Yes,No,No,Yes,Moderate,< 1 Hour,No,Present,Moderate,No,No,Fair to Good
+Slightly below par,Small Bowel,100,Poor,37,No,Yes,1 to 4,No,Yes,No,No,Yes,Mild,5 Hours,Yes,Absent,None,No,No,Very Well
+Terrible,Small Bowel,86,Poor,37,Yes,No,5 to 9,No,No,Yes,Yes,No,Moderate,< 1 Hour,No,Questionable,Severe,Yes,No,Very Poor
+Terrible,Large Bowel,82,Poor,36,Yes,No,1 to 4,No,No,Yes,Yes,No,Severe,5 Hours,No,Present,Moderate,Yes,Yes,Very Poor
+Poor,Large Bowel,107,Fair,36,No,Yes,10 to 19,No,No,Yes,No,Yes,None,5 Hours,Yes,Present,Moderate,Yes,No,Fair to Good
+Generally Well,Both/Mixed,85,Poor,37,No,Yes,1 to 4,No,Yes,Yes,No,Yes,Mild,< 1 Hour,No,Present,Moderate,No,Yes,Fair to Good
+Slightly below par,Both/Mixed,94,Poor,37,No,No,1 to 4,No,No,Yes,No,No,Moderate,1 - 4 Hours,Yes,Absent,Mild,No,No,Very Well
+Slightly below par,Small Bowel,112,Fair,37,Yes,No,None,Yes,Yes,No,No,Yes,Moderate,1 - 4 Hours,No,Questionable,Mild,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,85,Poor,37,Yes,No,None,Yes,Yes,No,Yes,No,Moderate,5 Hours,Yes,Absent,Moderate,No,Yes,Very Poor
+Generally Well,Large Bowel,110,Good,38,Yes,Yes,None,Yes,No,Yes,No,No,Severe,5 Hours,No,Absent,Moderate,No,No,Very Poor
+Terrible,Both/Mixed,102,Good,38,No,No,10 to 19,Yes,No,No,No,Yes,Moderate,1 - 4 Hours,No,Absent,Severe,Yes,Yes,Very Poor
+Poor,Both/Mixed,113,Good,37,No,No,20 to 49,No,No,No,No,No,Moderate,5 Hours,No,Questionable,None,Yes,No,Fair to Good
+Terrible,Small Bowel,90,Poor,37,No,No,10 to 19,Yes,Yes,No,No,No,None,< 1 Hour,No,Present,None,No,Yes,Fair to Good
+Poor,Both/Mixed,82,Good,36,Yes,Yes,20 to 49,No,No,No,Yes,No,Mild,1 - 4 Hours,No,Absent,Severe,Yes,No,Fair to Good
+Terrible,Both/Mixed,84,Fair,36,No,Yes,1 to 4,No,No,Yes,No,No,Severe,1 - 4 Hours,Yes,Absent,Moderate,No,Yes,Fair to Good
+Poor,Large Bowel,99,Good,37,No,Yes,20 to 49,No,Yes,Yes,No,Yes,None,1 - 4 Hours,No,Absent,Moderate,No,Yes,Fair to Good
+Generally Well,Both/Mixed,85,Poor,37,No,No,5 to 9,Yes,No,Yes,No,Yes,Severe,5 Hours,No,Present,Mild,Yes,No,Fair to Good
+Very Poor,Small Bowel,113,Poor,38,No,No,10 to 19,No,No,No,Yes,Yes,Moderate,< 1 Hour,No,Questionable,None,Yes,Yes,Fair to Good
+Generally Well,Both/Mixed,120,Good,36,Yes,No,10 to 19,No,No,Yes,No,No,Mild,5 Hours,Yes,Questionable,Moderate,No,No,Very Poor
+Generally Well,Large Bowel,91,Good,37,Yes,Yes,20 to 49,Yes,No,Yes,No,No,Mild,< 1 Hour,Yes,Questionable,Moderate,Yes,Yes,Very Poor
+Terrible,Small Bowel,92,Good,37,Yes,Yes,5 to 9,No,Yes,No,No,No,Moderate,< 1 Hour,Yes,Present,Moderate,No,No,Very Poor
+Slightly below par,Small Bowel,82,Poor,37,Yes,Yes,5 to 9,Yes,No,Yes,No,No,Severe,< 1 Hour,Yes,Absent,Severe,Yes,No,Very Well
+Generally Well,Small Bowel,105,Poor,36,No,No,1 to 4,Yes,No,Yes,No,Yes,Mild,< 1 Hour,No,Absent,Moderate,No,Yes,Poor
+Poor,Small Bowel,88,Fair,36,No,No,1 to 4,Yes,No,No,No,Yes,Moderate,< 1 Hour,Yes,Questionable,Mild,Yes,No,Fair to Good
+Poor,Small Bowel,105,Poor,37,No,No,1 to 4,Yes,No,No,Yes,Yes,Mild,< 1 Hour,No,Questionable,Mild,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,81,Good,37,Yes,No,1 to 4,Yes,No,No,No,Yes,Severe,< 1 Hour,Yes,Absent,Mild,No,No,Poor
+Poor,Small Bowel,112,Fair,36,No,Yes,10 to 19,No,Yes,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Questionable,Mild,No,No,Fair to Good
+Slightly below par,Both/Mixed,96,Good,38,Yes,No,10 to 19,Yes,No,Yes,Yes,Yes,Moderate,1 - 4 Hours,Yes,Present,Severe,No,No,Poor
+Generally Well,Small Bowel,98,Good,38,No,Yes,10 to 19,Yes,No,Yes,Yes,Yes,None,1 - 4 Hours,No,Absent,None,Yes,No,Poor
+Very Poor,Large Bowel,118,Fair,38,Yes,No,1 to 4,No,Yes,No,No,No,Severe,< 1 Hour,Yes,Questionable,None,No,Yes,Fair to Good
+Generally Well,Small Bowel,89,Poor,36,No,Yes,1 to 4,Yes,Yes,No,No,Yes,Moderate,5 Hours,No,Questionable,Severe,No,Yes,Very Poor
+Terrible,Large Bowel,104,Fair,36,No,Yes,5 to 9,No,Yes,Yes,Yes,Yes,Severe,5 Hours,Yes,Questionable,Mild,Yes,Yes,Very Poor
+Poor,Both/Mixed,120,Good,37,No,No,20 to 49,No,Yes,Yes,No,Yes,None,< 1 Hour,Yes,Absent,Severe,No,Yes,Very Poor
+Terrible,Small Bowel,97,Good,38,Yes,Yes,None,Yes,Yes,No,Yes,Yes,None,5 Hours,Yes,Absent,Severe,No,No,Very Well
+Slightly below par,Both/Mixed,82,Fair,37,Yes,Yes,1 to 4,No,No,Yes,Yes,No,Moderate,5 Hours,Yes,Present,Moderate,Yes,Yes,Very Well
+Very Poor,Both/Mixed,119,Fair,37,Yes,Yes,None,No,Yes,Yes,Yes,Yes,Severe,< 1 Hour,Yes,Questionable,None,No,No,Fair to Good
+Poor,Both/Mixed,119,Poor,38,Yes,Yes,1 to 4,No,No,Yes,Yes,No,None,5 Hours,Yes,Questionable,Mild,Yes,Yes,Poor
+Very Poor,Both/Mixed,103,Poor,38,No,No,5 to 9,No,Yes,Yes,Yes,Yes,Mild,5 Hours,No,Questionable,Mild,No,No,Very Well
+Slightly below par,Large Bowel,103,Poor,36,Yes,Yes,20 to 49,Yes,No,Yes,Yes,Yes,Mild,5 Hours,Yes,Absent,Mild,Yes,Yes,Very Poor
+Very Poor,Large Bowel,100,Poor,38,No,No,None,No,Yes,Yes,No,No,Severe,1 - 4 Hours,Yes,Absent,Moderate,No,No,Very Poor
+Slightly below par,Small Bowel,103,Good,38,Yes,No,20 to 49,No,No,No,Yes,No,None,1 - 4 Hours,Yes,Questionable,Severe,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,118,Fair,37,Yes,No,10 to 19,Yes,No,No,No,No,Mild,1 - 4 Hours,No,Questionable,None,No,No,Fair to Good
+Slightly below par,Small Bowel,96,Poor,37,Yes,No,5 to 9,No,Yes,No,No,Yes,Moderate,5 Hours,No,Present,Mild,No,Yes,Poor
+Poor,Both/Mixed,83,Good,36,Yes,No,None,Yes,Yes,No,No,Yes,Mild,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Fair to Good
+Very Poor,Both/Mixed,107,Good,36,No,No,10 to 19,No,Yes,Yes,Yes,No,None,5 Hours,No,Questionable,Mild,Yes,Yes,Poor
+Generally Well,Large Bowel,80,Poor,37,No,Yes,5 to 9,Yes,Yes,No,No,No,Mild,< 1 Hour,Yes,Absent,Moderate,No,No,Very Poor
+Poor,Both/Mixed,115,Good,37,No,Yes,None,No,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,No,Present,Severe,No,Yes,Poor
+Generally Well,Large Bowel,118,Fair,36,Yes,No,10 to 19,No,No,Yes,No,Yes,Moderate,< 1 Hour,No,Present,Severe,No,No,Very Well
+Generally Well,Both/Mixed,116,Good,38,No,Yes,5 to 9,No,Yes,No,No,Yes,Moderate,5 Hours,No,Present,None,Yes,No,Very Well
+Slightly below par,Small Bowel,105,Good,37,No,Yes,1 to 4,Yes,Yes,No,Yes,Yes,Mild,1 - 4 Hours,Yes,Present,Mild,No,No,Poor
+Slightly below par,Large Bowel,82,Poor,37,No,Yes,20 to 49,No,Yes,No,Yes,Yes,Mild,5 Hours,No,Absent,Mild,Yes,No,Fair to Good
+Slightly below par,Small Bowel,88,Good,38,No,No,10 to 19,Yes,No,No,No,No,Moderate,5 Hours,Yes,Present,Moderate,Yes,Yes,Very Poor
+Very Poor,Large Bowel,117,Good,37,Yes,No,20 to 49,No,Yes,Yes,Yes,Yes,Moderate,5 Hours,Yes,Absent,Mild,No,No,Very Well
+Terrible,Large Bowel,97,Good,36,Yes,Yes,1 to 4,No,Yes,No,Yes,Yes,Severe,1 - 4 Hours,No,Questionable,Severe,No,No,Fair to Good
+Generally Well,Small Bowel,94,Good,36,Yes,Yes,10 to 19,No,Yes,Yes,Yes,No,Severe,< 1 Hour,Yes,Present,Mild,No,Yes,Fair to Good
+Slightly below par,Small Bowel,102,Good,38,No,Yes,5 to 9,No,No,Yes,Yes,No,Severe,< 1 Hour,Yes,Questionable,Moderate,Yes,Yes,Poor
+Poor,Small Bowel,119,Poor,38,Yes,Yes,1 to 4,No,Yes,Yes,No,Yes,Mild,1 - 4 Hours,No,Present,Severe,Yes,No,Fair to Good
+Slightly below par,Small Bowel,91,Good,38,No,No,20 to 49,No,No,Yes,No,No,Severe,5 Hours,No,Present,Moderate,No,Yes,Very Well
+Generally Well,Small Bowel,97,Fair,38,No,Yes,1 to 4,No,No,No,No,No,Mild,5 Hours,Yes,Questionable,Mild,No,Yes,Fair to Good
+Generally Well,Large Bowel,92,Poor,36,Yes,Yes,5 to 9,Yes,Yes,No,No,Yes,Mild,5 Hours,Yes,Questionable,Severe,Yes,Yes,Very Well
+Slightly below par,Both/Mixed,111,Fair,38,No,Yes,1 to 4,Yes,Yes,No,No,Yes,Severe,1 - 4 Hours,Yes,Questionable,None,Yes,Yes,Very Well
+Terrible,Small Bowel,92,Fair,38,No,No,20 to 49,No,Yes,No,No,Yes,None,< 1 Hour,Yes,Absent,Mild,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,99,Fair,38,Yes,No,20 to 49,No,No,Yes,No,Yes,Mild,1 - 4 Hours,No,Present,Moderate,Yes,Yes,Fair to Good
+Poor,Small Bowel,80,Poor,37,No,No,1 to 4,No,No,No,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,None,No,No,Poor
+Terrible,Both/Mixed,100,Fair,37,Yes,No,5 to 9,No,Yes,Yes,Yes,No,Severe,1 - 4 Hours,No,Questionable,Mild,No,Yes,Poor
+Generally Well,Small Bowel,80,Poor,37,No,No,5 to 9,Yes,Yes,No,No,No,Moderate,< 1 Hour,No,Present,Moderate,No,Yes,Fair to Good
+Terrible,Small Bowel,120,Fair,38,Yes,No,5 to 9,No,Yes,Yes,Yes,No,Mild,5 Hours,No,Absent,None,Yes,No,Very Well
+Slightly below par,Both/Mixed,109,Good,37,Yes,Yes,1 to 4,Yes,Yes,Yes,No,Yes,None,1 - 4 Hours,No,Questionable,Mild,Yes,No,Very Well
+Terrible,Small Bowel,80,Poor,37,No,No,None,No,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,Yes,Present,None,Yes,Yes,Poor
+Slightly below par,Large Bowel,107,Fair,37,No,Yes,10 to 19,No,No,No,Yes,Yes,Moderate,< 1 Hour,Yes,Questionable,Moderate,No,No,Poor
+Generally Well,Small Bowel,81,Good,36,No,No,None,Yes,No,No,Yes,Yes,Severe,1 - 4 Hours,No,Questionable,Severe,Yes,No,Fair to Good
+Poor,Small Bowel,80,Poor,36,No,Yes,None,No,Yes,Yes,Yes,No,Mild,5 Hours,Yes,Present,Mild,No,Yes,Poor
+Slightly below par,Small Bowel,86,Good,37,Yes,No,20 to 49,No,Yes,Yes,No,No,None,5 Hours,Yes,Absent,Moderate,No,No,Very Well
+Terrible,Both/Mixed,98,Fair,38,Yes,Yes,10 to 19,Yes,Yes,Yes,Yes,No,Moderate,1 - 4 Hours,Yes,Absent,Moderate,Yes,Yes,Very Poor
+Poor,Small Bowel,112,Good,37,Yes,Yes,1 to 4,Yes,Yes,No,No,No,Mild,1 - 4 Hours,No,Absent,Moderate,No,Yes,Very Well
+Terrible,Both/Mixed,97,Poor,36,No,No,1 to 4,No,Yes,No,No,Yes,Moderate,< 1 Hour,Yes,Absent,Mild,No,Yes,Very Well
+Poor,Small Bowel,111,Good,37,No,Yes,20 to 49,No,No,Yes,Yes,Yes,None,< 1 Hour,Yes,Questionable,None,No,Yes,Very Poor
+Generally Well,Both/Mixed,93,Fair,38,No,No,10 to 19,Yes,No,No,Yes,Yes,None,< 1 Hour,Yes,Absent,Severe,Yes,Yes,Fair to Good
+Generally Well,Small Bowel,96,Poor,37,Yes,Yes,1 to 4,Yes,No,Yes,No,Yes,Moderate,< 1 Hour,No,Questionable,Moderate,Yes,Yes,Very Poor
+Terrible,Small Bowel,90,Poor,37,Yes,No,10 to 19,No,Yes,No,Yes,Yes,Mild,1 - 4 Hours,Yes,Absent,Moderate,Yes,Yes,Fair to Good
+Very Poor,Small Bowel,88,Good,37,Yes,No,None,No,Yes,No,No,Yes,None,< 1 Hour,No,Present,Severe,No,No,Very Well
+Terrible,Large Bowel,100,Poor,37,Yes,No,20 to 49,Yes,Yes,No,Yes,No,Moderate,5 Hours,No,Questionable,Mild,No,Yes,Very Poor
+Very Poor,Both/Mixed,98,Poor,38,No,No,5 to 9,Yes,Yes,No,Yes,No,Severe,< 1 Hour,Yes,Present,Mild,No,No,Fair to Good
+Terrible,Both/Mixed,102,Poor,37,Yes,No,1 to 4,Yes,Yes,Yes,No,No,Mild,< 1 Hour,Yes,Absent,Mild,No,Yes,Fair to Good
+Slightly below par,Large Bowel,112,Fair,36,Yes,Yes,None,Yes,Yes,No,No,Yes,Moderate,< 1 Hour,Yes,Questionable,Moderate,No,No,Very Well
+Terrible,Small Bowel,120,Poor,36,No,No,None,Yes,No,Yes,No,Yes,Moderate,1 - 4 Hours,Yes,Present,None,No,No,Very Well
+Generally Well,Small Bowel,117,Fair,37,Yes,Yes,20 to 49,Yes,No,Yes,Yes,No,Moderate,< 1 Hour,No,Present,Mild,Yes,Yes,Very Well
+Slightly below par,Large Bowel,108,Good,37,No,No,20 to 49,Yes,Yes,No,No,Yes,None,1 - 4 Hours,No,Present,Moderate,No,Yes,Very Poor
+Generally Well,Large Bowel,101,Fair,37,No,Yes,None,Yes,Yes,No,No,No,Severe,5 Hours,No,Questionable,Moderate,Yes,Yes,Fair to Good
+Slightly below par,Small Bowel,105,Poor,36,No,No,10 to 19,No,No,No,No,No,Moderate,< 1 Hour,Yes,Questionable,Severe,No,No,Very Well
+Poor,Large Bowel,92,Poor,36,Yes,No,10 to 19,Yes,Yes,Yes,No,Yes,Severe,< 1 Hour,Yes,Questionable,Severe,Yes,No,Very Poor
+Slightly below par,Small Bowel,89,Good,36,No,No,20 to 49,Yes,No,No,Yes,No,Moderate,< 1 Hour,Yes,Present,Mild,Yes,Yes,Poor
+Terrible,Small Bowel,106,Poor,38,Yes,Yes,20 to 49,No,Yes,No,Yes,Yes,Mild,< 1 Hour,No,Present,Severe,No,Yes,Poor
+Poor,Both/Mixed,98,Good,37,No,Yes,5 to 9,No,Yes,Yes,No,Yes,None,1 - 4 Hours,Yes,Questionable,None,Yes,Yes,Poor
+Very Poor,Small Bowel,119,Poor,38,No,Yes,20 to 49,Yes,No,Yes,Yes,Yes,None,1 - 4 Hours,Yes,Absent,None,No,No,Very Well
+Poor,Large Bowel,100,Fair,37,No,No,None,Yes,Yes,No,Yes,No,None,1 - 4 Hours,No,Present,Mild,Yes,No,Fair to Good
+Very Poor,Small Bowel,89,Fair,36,Yes,No,5 to 9,No,No,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Questionable,Mild,Yes,No,Very Well
+Poor,Small Bowel,119,Poor,37,Yes,No,1 to 4,No,Yes,Yes,No,Yes,Moderate,< 1 Hour,Yes,Questionable,Moderate,No,Yes,Very Well
+Generally Well,Small Bowel,100,Poor,38,No,Yes,None,No,No,Yes,Yes,Yes,None,< 1 Hour,Yes,Present,None,No,No,Very Poor
+Terrible,Both/Mixed,110,Fair,38,Yes,No,20 to 49,No,Yes,No,Yes,No,Moderate,5 Hours,Yes,Present,Moderate,Yes,Yes,Fair to Good
+Poor,Both/Mixed,85,Poor,38,No,No,10 to 19,Yes,Yes,Yes,No,Yes,Moderate,< 1 Hour,Yes,Present,Moderate,Yes,No,Very Poor
+Terrible,Small Bowel,92,Poor,37,Yes,Yes,None,Yes,Yes,No,No,Yes,Severe,5 Hours,Yes,Questionable,Severe,Yes,No,Fair to Good
+Terrible,Small Bowel,106,Poor,37,Yes,Yes,10 to 19,No,Yes,Yes,No,Yes,Moderate,< 1 Hour,Yes,Present,Severe,Yes,Yes,Very Well
+Poor,Large Bowel,90,Poor,36,Yes,Yes,20 to 49,Yes,No,Yes,No,No,Mild,1 - 4 Hours,No,Present,Severe,No,No,Fair to Good
+Terrible,Small Bowel,120,Good,38,No,Yes,1 to 4,Yes,No,No,No,No,Mild,< 1 Hour,Yes,Absent,Mild,No,No,Fair to Good
+Slightly below par,Large Bowel,93,Good,37,Yes,Yes,20 to 49,No,Yes,No,No,Yes,None,5 Hours,No,Questionable,Moderate,No,Yes,Poor
+Poor,Both/Mixed,86,Good,38,Yes,Yes,1 to 4,No,Yes,Yes,Yes,No,Moderate,5 Hours,Yes,Absent,Moderate,Yes,Yes,Poor
+Very Poor,Large Bowel,91,Good,38,Yes,Yes,1 to 4,Yes,Yes,No,Yes,No,Severe,1 - 4 Hours,Yes,Absent,Mild,No,No,Poor
+Generally Well,Small Bowel,105,Fair,38,No,Yes,None,No,No,Yes,No,No,Mild,< 1 Hour,No,Absent,Severe,Yes,No,Very Poor
+Generally Well,Large Bowel,108,Fair,37,No,No,5 to 9,No,No,No,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,Mild,No,Yes,Very Well
+Terrible,Both/Mixed,106,Good,37,Yes,Yes,10 to 19,Yes,Yes,Yes,Yes,No,Mild,1 - 4 Hours,No,Questionable,Moderate,Yes,Yes,Very Poor
+Generally Well,Both/Mixed,106,Fair,38,No,No,None,No,Yes,Yes,No,Yes,Severe,5 Hours,Yes,Absent,Mild,No,No,Poor
+Generally Well,Both/Mixed,100,Fair,36,No,No,10 to 19,No,No,Yes,No,Yes,Moderate,1 - 4 Hours,No,Present,Mild,No,No,Very Poor
+Very Poor,Small Bowel,106,Good,38,No,No,None,No,Yes,No,No,Yes,None,1 - 4 Hours,No,Absent,Severe,Yes,No,Very Well
+Terrible,Both/Mixed,120,Poor,36,Yes,No,5 to 9,Yes,No,Yes,Yes,No,Mild,5 Hours,Yes,Questionable,Severe,No,Yes,Poor
+Generally Well,Large Bowel,86,Good,36,No,Yes,5 to 9,Yes,Yes,Yes,No,Yes,Severe,1 - 4 Hours,No,Questionable,Severe,No,No,Very Poor
+Slightly below par,Both/Mixed,88,Poor,36,Yes,No,10 to 19,No,Yes,No,Yes,Yes,Moderate,< 1 Hour,Yes,Questionable,None,Yes,No,Very Poor
+Slightly below par,Small Bowel,104,Fair,38,No,No,None,No,Yes,No,No,Yes,Moderate,1 - 4 Hours,No,Questionable,Moderate,Yes,Yes,Very Well
+Terrible,Both/Mixed,110,Good,37,Yes,Yes,10 to 19,No,No,No,Yes,Yes,None,1 - 4 Hours,Yes,Absent,Mild,Yes,No,Very Well
+Terrible,Large Bowel,119,Fair,37,No,No,None,No,No,Yes,No,Yes,None,< 1 Hour,No,Present,Moderate,No,Yes,Fair to Good
+Very Poor,Both/Mixed,108,Poor,37,No,No,1 to 4,Yes,No,Yes,No,Yes,Severe,1 - 4 Hours,Yes,Questionable,Severe,Yes,No,Poor
+Poor,Both/Mixed,112,Fair,36,Yes,Yes,5 to 9,No,No,No,Yes,No,Moderate,< 1 Hour,No,Absent,None,Yes,No,Fair to Good
+Very Poor,Both/Mixed,105,Good,36,Yes,No,10 to 19,No,Yes,No,Yes,Yes,None,5 Hours,No,Present,None,Yes,Yes,Poor
+Terrible,Large Bowel,119,Good,38,No,No,1 to 4,No,Yes,Yes,No,Yes,Mild,1 - 4 Hours,Yes,Questionable,Severe,Yes,Yes,Fair to Good
+Very Poor,Large Bowel,115,Poor,36,Yes,No,5 to 9,No,Yes,Yes,No,Yes,Moderate,5 Hours,No,Questionable,Moderate,Yes,No,Very Poor
+Slightly below par,Small Bowel,86,Good,36,Yes,No,20 to 49,No,Yes,No,No,No,None,1 - 4 Hours,No,Questionable,Mild,No,No,Very Poor
+Very Poor,Both/Mixed,87,Poor,38,Yes,No,5 to 9,No,Yes,No,Yes,Yes,Moderate,1 - 4 Hours,No,Absent,None,No,No,Very Well
+Generally Well,Small Bowel,117,Poor,36,Yes,No,1 to 4,No,Yes,No,Yes,No,Moderate,5 Hours,Yes,Questionable,None,Yes,No,Very Poor
+Slightly below par,Small Bowel,113,Poor,38,Yes,Yes,None,Yes,No,No,No,No,Moderate,5 Hours,No,Questionable,None,No,Yes,Very Well
+Terrible,Both/Mixed,87,Good,36,Yes,Yes,1 to 4,No,Yes,Yes,No,No,None,1 - 4 Hours,Yes,Questionable,None,No,Yes,Poor
+Terrible,Large Bowel,109,Good,38,No,No,20 to 49,Yes,No,Yes,No,Yes,Moderate,< 1 Hour,No,Questionable,None,Yes,No,Very Poor
+Very Poor,Large Bowel,102,Fair,38,No,No,10 to 19,Yes,Yes,No,Yes,Yes,Moderate,5 Hours,No,Present,Severe,Yes,No,Very Poor
+Very Poor,Small Bowel,119,Good,37,No,No,10 to 19,No,Yes,Yes,No,No,None,1 - 4 Hours,No,Questionable,Moderate,No,Yes,Fair to Good
+Slightly below par,Both/Mixed,119,Good,38,No,No,1 to 4,No,Yes,Yes,Yes,No,Moderate,5 Hours,Yes,Absent,Mild,Yes,No,Fair to Good
+Slightly below par,Small Bowel,103,Good,36,Yes,No,None,Yes,No,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Present,Moderate,No,No,Poor
+Poor,Small Bowel,113,Poor,37,No,No,20 to 49,No,Yes,No,No,Yes,Severe,< 1 Hour,Yes,Absent,None,No,No,Fair to Good
+Very Poor,Large Bowel,92,Fair,37,Yes,Yes,5 to 9,No,No,Yes,Yes,Yes,None,5 Hours,No,Absent,None,Yes,Yes,Very Poor
+Poor,Large Bowel,100,Poor,38,No,No,10 to 19,Yes,No,No,Yes,Yes,Severe,1 - 4 Hours,No,Absent,None,Yes,No,Fair to Good
+Very Poor,Small Bowel,109,Good,38,Yes,Yes,20 to 49,No,Yes,No,No,Yes,Severe,1 - 4 Hours,No,Questionable,None,No,No,Fair to Good
+Generally Well,Both/Mixed,105,Poor,38,Yes,No,1 to 4,No,No,Yes,No,No,Mild,< 1 Hour,Yes,Present,Mild,No,No,Very Well
+Poor,Small Bowel,89,Fair,36,Yes,No,None,No,No,No,Yes,No,Moderate,< 1 Hour,No,Questionable,Severe,Yes,Yes,Very Well
+Very Poor,Both/Mixed,100,Fair,37,Yes,No,1 to 4,No,No,Yes,Yes,Yes,None,1 - 4 Hours,No,Absent,None,No,No,Poor
+Terrible,Small Bowel,105,Good,36,No,Yes,5 to 9,No,No,Yes,Yes,No,Severe,5 Hours,No,Questionable,Severe,No,Yes,Very Well
+Slightly below par,Small Bowel,92,Fair,36,Yes,Yes,10 to 19,Yes,Yes,No,No,Yes,None,1 - 4 Hours,Yes,Present,None,Yes,Yes,Very Poor
+Very Poor,Both/Mixed,100,Fair,37,No,Yes,5 to 9,Yes,Yes,Yes,No,Yes,Moderate,< 1 Hour,No,Questionable,Moderate,No,Yes,Very Well
+Slightly below par,Small Bowel,112,Fair,37,No,No,10 to 19,Yes,No,Yes,Yes,Yes,None,5 Hours,No,Absent,Severe,Yes,Yes,Very Poor
+Slightly below par,Small Bowel,118,Good,36,No,No,10 to 19,Yes,No,Yes,Yes,Yes,Mild,< 1 Hour,Yes,Present,None,Yes,Yes,Poor
+Slightly below par,Large Bowel,98,Good,37,Yes,No,None,No,Yes,No,Yes,Yes,Mild,1 - 4 Hours,No,Present,Moderate,Yes,Yes,Very Poor
+Poor,Small Bowel,110,Poor,38,No,No,5 to 9,No,No,Yes,Yes,No,Severe,1 - 4 Hours,Yes,Absent,Mild,Yes,Yes,Very Poor
+Poor,Small Bowel,91,Fair,37,Yes,Yes,5 to 9,Yes,Yes,No,No,No,None,1 - 4 Hours,No,Absent,None,Yes,No,Fair to Good
+Terrible,Both/Mixed,119,Fair,38,No,No,None,Yes,Yes,No,No,No,Moderate,1 - 4 Hours,No,Present,Mild,No,Yes,Poor
+Very Poor,Small Bowel,106,Poor,38,No,No,10 to 19,Yes,Yes,Yes,No,Yes,Severe,< 1 Hour,Yes,Questionable,Moderate,Yes,Yes,Poor
+Slightly below par,Small Bowel,109,Poor,38,No,Yes,20 to 49,Yes,Yes,No,No,No,Severe,1 - 4 Hours,No,Questionable,Mild,Yes,No,Poor
+Poor,Small Bowel,104,Fair,36,No,Yes,5 to 9,No,No,No,Yes,Yes,Severe,< 1 Hour,No,Present,None,Yes,No,Poor
+Poor,Both/Mixed,116,Fair,38,Yes,Yes,20 to 49,No,No,No,Yes,Yes,Moderate,5 Hours,Yes,Questionable,Mild,Yes,No,Very Poor
+Poor,Both/Mixed,102,Fair,37,Yes,Yes,20 to 49,No,No,Yes,No,No,Severe,< 1 Hour,Yes,Present,None,Yes,No,Poor
+Generally Well,Both/Mixed,109,Poor,38,Yes,No,1 to 4,Yes,Yes,Yes,No,Yes,None,5 Hours,Yes,Absent,Severe,Yes,No,Fair to Good
+Generally Well,Both/Mixed,99,Poor,37,Yes,No,10 to 19,No,No,Yes,No,No,None,1 - 4 Hours,Yes,Absent,None,Yes,Yes,Poor
+Generally Well,Large Bowel,104,Fair,36,Yes,No,None,Yes,No,No,No,Yes,Moderate,< 1 Hour,No,Present,Severe,Yes,No,Fair to Good
+Very Poor,Both/Mixed,118,Poor,36,No,Yes,5 to 9,Yes,No,Yes,Yes,Yes,Mild,5 Hours,No,Present,Mild,Yes,Yes,Fair to Good
+Slightly below par,Both/Mixed,108,Poor,38,No,No,20 to 49,Yes,Yes,Yes,No,Yes,Moderate,1 - 4 Hours,No,Present,Severe,No,Yes,Poor
+Terrible,Large Bowel,86,Good,36,No,Yes,None,No,No,No,Yes,Yes,Moderate,1 - 4 Hours,No,Questionable,Moderate,No,Yes,Very Poor
+Poor,Small Bowel,83,Fair,36,Yes,Yes,5 to 9,No,No,No,Yes,Yes,Mild,5 Hours,No,Absent,None,No,No,Very Well
+Generally Well,Both/Mixed,115,Good,38,No,No,1 to 4,Yes,Yes,Yes,Yes,Yes,Moderate,< 1 Hour,Yes,Present,None,Yes,No,Fair to Good
+Poor,Small Bowel,94,Fair,36,No,No,5 to 9,No,No,No,No,Yes,Mild,< 1 Hour,No,Present,Mild,No,Yes,Very Well
+Poor,Both/Mixed,90,Fair,37,Yes,No,None,Yes,Yes,Yes,No,Yes,Severe,< 1 Hour,No,Present,Moderate,Yes,Yes,Very Poor
+Very Poor,Small Bowel,102,Good,36,Yes,No,10 to 19,No,No,No,No,Yes,Mild,1 - 4 Hours,Yes,Questionable,Moderate,No,No,Very Poor
+Poor,Small Bowel,120,Good,38,No,No,20 to 49,No,Yes,No,Yes,Yes,Mild,5 Hours,Yes,Questionable,None,No,No,Poor
+Very Poor,Both/Mixed,89,Fair,36,Yes,Yes,10 to 19,Yes,No,Yes,No,No,Moderate,1 - 4 Hours,Yes,Present,Severe,Yes,No,Poor
+Very Poor,Small Bowel,105,Good,38,No,No,1 to 4,No,Yes,No,No,No,Moderate,5 Hours,Yes,Absent,Severe,Yes,Yes,Poor
+Generally Well,Small Bowel,117,Fair,36,Yes,No,5 to 9,Yes,Yes,No,No,No,None,< 1 Hour,No,Absent,Severe,No,Yes,Fair to Good
+Slightly below par,Large Bowel,115,Fair,38,Yes,Yes,5 to 9,Yes,No,Yes,Yes,Yes,Mild,< 1 Hour,No,Present,Moderate,Yes,Yes,Fair to Good
+Very Poor,Both/Mixed,120,Good,36,No,No,5 to 9,Yes,Yes,No,No,Yes,Mild,5 Hours,No,Questionable,Severe,No,No,Fair to Good
+Slightly below par,Large Bowel,116,Good,38,No,No,20 to 49,No,Yes,Yes,Yes,Yes,Mild,< 1 Hour,No,Absent,None,No,Yes,Poor
+Slightly below par,Both/Mixed,114,Fair,36,No,No,10 to 19,No,Yes,No,Yes,No,Severe,5 Hours,No,Questionable,None,No,No,Very Poor
+Slightly below par,Small Bowel,113,Fair,37,Yes,Yes,10 to 19,Yes,No,No,No,No,Moderate,5 Hours,No,Present,Moderate,No,No,Poor
+Generally Well,Small Bowel,87,Poor,36,Yes,Yes,None,No,No,Yes,No,No,Mild,1 - 4 Hours,Yes,Present,Mild,Yes,Yes,Very Well
+Terrible,Small Bowel,85,Good,36,Yes,Yes,1 to 4,Yes,No,Yes,Yes,Yes,Moderate,< 1 Hour,No,Questionable,Severe,Yes,No,Fair to Good
+Poor,Both/Mixed,114,Poor,36,No,No,20 to 49,No,No,No,No,No,Mild,< 1 Hour,Yes,Present,Severe,No,Yes,Poor
+Slightly below par,Both/Mixed,98,Poor,36,Yes,Yes,10 to 19,Yes,Yes,Yes,Yes,No,None,< 1 Hour,No,Questionable,Moderate,No,No,Very Poor
+Poor,Large Bowel,105,Fair,38,No,Yes,1 to 4,Yes,No,Yes,No,Yes,Mild,< 1 Hour,No,Questionable,None,No,No,Fair to Good
+Slightly below par,Large Bowel,81,Poor,36,Yes,Yes,20 to 49,No,No,Yes,No,Yes,Severe,< 1 Hour,Yes,Absent,None,No,Yes,Very Well
+Poor,Large Bowel,98,Fair,36,Yes,No,5 to 9,Yes,No,Yes,No,No,Mild,5 Hours,No,Present,Severe,Yes,Yes,Very Well
+Terrible,Small Bowel,108,Good,36,Yes,No,1 to 4,No,Yes,Yes,No,Yes,Severe,1 - 4 Hours,Yes,Absent,Mild,Yes,Yes,Very Poor
+Very Poor,Large Bowel,110,Good,38,No,No,None,No,No,No,Yes,Yes,Mild,< 1 Hour,Yes,Absent,Mild,No,Yes,Very Well
+Poor,Both/Mixed,89,89,37,No,No,5 to 9,No,No,No,No,Yes,Moderate,1 - 4 Hours,No,Questionable,Mild,No,No,Poor
+Very Poor,Large Bowel,98,98,37,No,No,5 to 9,No,No,Yes,No,No,Mild,1 - 4 Hours,No,Questionable,Mild,No,No,Poor
+Generally Well,Large Bowel,98,98,36,No,No,5 to 9,No,No,No,No,No,Mild,1 - 4 Hours,No,Questionable,Mild,No,No,Fair to Good
+Sightly below par,Small Bowel,120,120,36,Yes,Yes,5 to 9,Yes,Yes,Yes,Yes,Yes,Mild,1 - 4 Hours,No,Absent,Mild,Yes,Yes,Poor
