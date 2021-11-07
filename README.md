@@ -52,5 +52,5 @@ If you wan to use it locally:
 `flutter packages pub run build_runner build --delete-conflicting-outputs`  
 This creates the generated code necessary for the project to compile  
 + You can find Firebase Firestore schema at 
-  + For doctor `flutter\doc\lib\backend\schema` 
-  + For patient `flutter\patient\lib\backend\schema` 
+  + For doctor `Flutter\doctor\lib\backend\schema` 
+  + For patient `Flutter\patient\lib\backend\schema` 
