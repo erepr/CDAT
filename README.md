@@ -40,7 +40,8 @@ If you wan to use it locally:
 
 <img src="https://i.imgur.com/LxQS91l.jpg" width="300">&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.imgur.com/lAwHvHZ.jpg" width="300"> 
 
+## Useful links
 
-
++ Best WR, Becktel JM, Singleton JW, Kern F Jr. Development of a Crohn's disease activity index. National Cooperative Crohn's Disease Study. Gastroenterology. 1976 Mar;70(3):439-44. PMID: 1248701.  [Development of a Crohn's disease activity index](https://doi.org/10.1016/S0016-5085(76)80163-1)
 
 
