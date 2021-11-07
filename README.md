@@ -1,6 +1,6 @@
 ![Crohn's Disease Activity Tracker!](/img/logo.png)
 # Crohn's Disease Activity Tracker
-Crohn's Disease Activity Tracker
+
 
 #### Releases
 Crohn's Disease Activity Tracker for Patients [CDAT Tracker](https://appdistribution.firebase.google.com/pub/i/32c146ddb4034129)  
