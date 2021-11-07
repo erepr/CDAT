@@ -8,6 +8,7 @@
 + Crohn's Disease Activity Tracker for Patients [CDAT Tracker](https://appdistribution.firebase.google.com/pub/i/32c146ddb4034129)  
 + For Gastoenterologists [CDAT Doctor](https://appdistribution.firebase.google.com/pub/i/af791d4fbee5b3bf)  
 + Offline [Both](https://drive.google.com/drive/folders/1TdHXva7pBXtE1Cl5Vuy4FzqT389nFRl2?usp=sharing)
++ [Slides](https://github.com/erepr/CDAT/blob/main/Slides/CDAT.pdf)
 
 #### Source code
 
@@ -15,7 +16,7 @@ If you wan to use it locally:
 
 + `git clone git@github.com:erepr/CDAT.git`
 + `cd CDAT\src` to get inside the repository
-+ `python3 predictRT` capture live changes to firebase
++ `python3 predictRT.py` capture live changes to firebase
 
 ## Doctor's App
 
