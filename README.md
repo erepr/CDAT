@@ -15,7 +15,7 @@ Offline [Both](https://drive.google.com/drive/folders/1TdHXva7pBXtE1Cl5Vuy4FzqT3
 - Labelling of symptoms can only done by **Gastroenterologists**.
 
 
-<img src="https://i.imgur.com/14GIoP8.jpg" width="200">&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.imgur.com/s6Xcm5d.jpg" width="200"> &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.imgur.com/5wrtbhv.jpg" width="200"> 
+<img src="https://i.imgur.com/14GIoP8.jpg" width="250">&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.imgur.com/s6Xcm5d.jpg" width="250"> &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.imgur.com/5wrtbhv.jpg" width="250"> 
 
 
 ## Patient App
